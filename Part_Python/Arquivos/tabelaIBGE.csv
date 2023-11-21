@@ -1,0 +1,1026 @@
+Código;nome;caloria;proteina;lipídio;carboidrato;Grupo
+6300101;Arroz (polido, parboilizado, agulha, agulhinha, etc.);135,6;2,5;1,2;27,78;Cereais e leguminosas
+6300201;Arroz integral;130,9;2,6;2;25,56;Cereais e leguminosas
+6300701;Milho (em grão);160,1;3,3;7,2;25,11;Cereais e leguminosas
+6300706;Canjiquinha de milho em grão;79,7;1,2;2,2;13,5;Cereais e leguminosas
+6300707;Xerém de milho;63;1,2;0,3;13,5;Cereais e leguminosas
+6301001;Amendoim (em grão) in natura;567;25,8;49,2;16,13;Cereais e leguminosas
+6301101;Ervilha em grão;109,1;5,4;3,1;15,63;Cereais e leguminosas
+6301201;Fava (em grão);85,6;4,8;3,2;10,1;Cereais e leguminosas
+6301204;Mangalô amargo em grão;85,6;4,8;3,2;10,1;Cereais e leguminosas
+6301603;Feijãodecorda;121,3;3,2;3,1;20,32;Cereais e leguminosas
+6301634;Feijãoverde;121,3;3,2;3,1;20,32;Cereais e leguminosas
+6302001;Semente de linhaça;534;18,3;42,2;28,88;Cereais e leguminosas
+6302602;Andu;97,4;5,8;1,8;15,05;Cereais e leguminosas
+6302801;Grão de bico;188,5;8,9;5,4;27,42;Cereais e leguminosas
+6302901;Lentilha;136,3;9;2,7;20,13;Cereais e leguminosas
+6303001;Soja em grão;196,3;16,6;11,6;9,93;Cereais e leguminosas
+6303102;Feijão (preto, mulatinho, roxo, rosinha, etc.);97,4;5,8;1,8;15,05;Cereais e leguminosas
+6303501;Quirera não especificada;63;1,2;0,3;13,5;Cereais e leguminosas
+6304034;Feijãoverde orgânico;121,33;3,17;3,13;20,32;Cereais e leguminosas
+6304101;Feijão orgânico;97,41;5,84;1,79;15,05;Cereais e leguminosas
+6304201;Pipoca  light;445,94;10,77;17,78;64,85;Cereais e leguminosas
+6304301;Arroz  orgânico;135,62;2,5;1,2;27,78;Cereais e leguminosas
+6304401;Arroz integral orgânico;130,95;2,56;1,97;25,56;Cereais e leguminosas
+6304602;Feijãodesoja orgânico;196,34;16,64;11,61;9,93;Cereais e leguminosas
+6304901;Quinoa;135,47;4,37;4,33;19,83;Cereais e leguminosas
+6400101;Batatainglesa;86;1,71;0,1;20,01;Hortaliças tuberosas
+6400303;Mandioquinha salsa (batatabaroa);76;1,37;0,14;17,72;Hortaliças tuberosas
+6400401;Batatadoce;76;1,37;0,14;17,72;Hortaliças tuberosas
+6400501;Inhame;100;1,71;0,12;23,4;Hortaliças tuberosas
+6400508;Quicaré;100;1,71;0,12;23,4;Hortaliças tuberosas
+6400601;Mandioca;125;0,6;0,3;30,1;Hortaliças tuberosas
+6400609;Aipim;125;0,6;0,3;30,1;Hortaliças tuberosas
+6400610;Macaxeira;125;0,6;0,3;30,1;Hortaliças tuberosas
+6400701;Cará;115,74;1,71;1,9;23,4;Hortaliças tuberosas
+6400713;Inhame caraquento (cará);100;1,71;0,12;23,4;Hortaliças tuberosas
+6400802;Batata (não especificada);86;1,71;0,1;20,01;Hortaliças tuberosas
+6400908;Mandioquinha;76;1,37;0,14;17,72;Hortaliças tuberosas
+6401001;Rabanete;16;0,68;0,1;3,4;Hortaliças tuberosas
+6401201;Cenoura;41;0,93;0,24;9,58;Hortaliças tuberosas
+6401301;Nabo;22;0,71;0,08;5,06;Hortaliças tuberosas
+6401601;Açafrão;310;11,43;5,85;65,37;Hortaliças tuberosas
+6401801;Batatainglesa orgânica;263,5;2,87;13,64;33,6;Hortaliças tuberosas
+6500101;Creme de arroz;148,32;3,8;3,3;26,07;Farinhas, féculas e massas
+6500104;Arrozina;148,32;3,8;3,3;26,07;Farinhas, féculas e massas
+6500105;Mucilon;78,24;2,42;3,06;10,46;Farinhas, féculas e massas
+6500108;Mingau de arroz;148,32;3,8;3,3;26,07;Farinhas, féculas e massas
+6500202;Croquinhos de arroz;387;12,94;4,54;77,9;Farinhas, féculas e massas
+6500301;Farinha de aveia;384;16;6,3;67;Farinhas, féculas e massas
+6500401;Aveia em flocos;384;16;6,3;67;Farinhas, féculas e massas
+6500601;Fubá de milho;60,58;1,44;0,2;13;Farinhas, féculas e massas
+6500603;Farinha de milho;351;7,2;1,5;79,1;Farinhas, féculas e massas
+6500608;Puba de milho;311;4,8;12,4;45,1;Farinhas, féculas e massas
+6500609;Puba de fubá;311;4,8;12,4;45,1;Farinhas, féculas e massas
+6500613;Milho moído;160,14;3,32;7,18;25,11;Farinhas, féculas e massas
+6500614;Mingau de milho;78,24;2,42;3,06;10,46;Farinhas, féculas e massas
+6500702;Amido de milho;78,24;2,42;3,06;10,46;Farinhas, féculas e massas
+6500705;Amido de arroz;148,32;3,8;3,3;26,07;Farinhas, féculas e massas
+6500801;Cremogema;78,24;2,42;3,06;10,46;Farinhas, féculas e massas
+6500802;Vitamilho;128,3;4,35;0,22;26,42;Farinhas, féculas e massas
+6500804;Creme de milho;78,24;2,42;3,06;10,46;Farinhas, féculas e massas
+6500902;Sucrilhos de milho;377;4,7;0,7;88,8;Farinhas, féculas e massas
+6500903;Cereal matinal de milho em flocos;377;4,7;0,7;88,8;Farinhas, féculas e massas
+6501301;Germe de trigo;360;23,15;9,72;51,8;Farinhas, féculas e massas
+6501303;Fibra de trigo;216;15,55;4,25;64,51;Farinhas, féculas e massas
+6501304;Fibra de cereal trigo;216;15,55;4,25;64,51;Farinhas, féculas e massas
+6501401;Farinha de mandioca;361;1,6;0,3;87,9;Farinhas, féculas e massas
+6501410;Farinha de copioba;361;1,6;0,3;87,9;Farinhas, féculas e massas
+6501415;Farinha d'água;361;1,6;0,3;87,9;Farinhas, féculas e massas
+6501416;Cruera;361;1,6;0,3;87,9;Farinhas, féculas e massas
+6501502;Goma de mandioca;336;2;3,7;82;Farinhas, féculas e massas
+6501505;Sagu de mandioca;116,99;4,33;4,1;15,51;Farinhas, féculas e massas
+6501510;Farinha de tapioca;331;0,5;0,3;81,1;Farinhas, féculas e massas
+6501511;Farinha beiju;331;0,5;0,3;81,1;Farinhas, féculas e massas
+6501515;Sagu de tapioca;116,99;4,33;4,1;15,51;Farinhas, féculas e massas
+6501516;Tapioca de goma;336;2;3,7;82;Farinhas, féculas e massas
+6502001;Farinha láctea;396,67;12,67;6,33;73,33;Farinhas, féculas e massas
+6502101;Neston;345,8;12,92;3,7;70,8;Farinhas, féculas e massas
+6502102;Flocos de cereais;365;7,2;1;83,8;Farinhas, féculas e massas
+6502105;Vitaflocos;78,24;2,42;3,06;10,46;Farinhas, féculas e massas
+6502403;Mini pizza semipronta;252,49;10,17;8,22;33,73;Farinhas, féculas e massas
+6502501;Fibra de soja;70;12;2;74;Farinhas, féculas e massas
+6502603;Minipastel;319,81;10,38;15,68;33,51;Farinhas, féculas e massas
+6503401;Macarrão ;158;5,8;0,93;30,86;Farinhas, féculas e massas
+6503501;Purê de batata;115,16;1,81;4,36;17,76;Farinhas, féculas e massas
+6503601;Bife vegetal;142,37;18,51;5,32;5,8;Farinhas, féculas e massas
+6503603;Carne vegetal;142,37;18,51;5,32;5,8;Farinhas, féculas e massas
+6503604;Pasta de soja;62;6,9;2,7;2,4;Farinhas, féculas e massas
+6503605;Carne de soja;142,37;18,51;5,32;5,8;Farinhas, féculas e massas
+6503702;Amendoim moído;567;25,8;49,24;16,13;Farinhas, féculas e massas
+6504101;Granola ;388;9,5;6,3;73,8;Farinhas, féculas e massas
+6504601;Musli;388;9,5;6,3;73,8;Farinhas, féculas e massas
+6504701;Mix de cereais;388;9,5;6,3;73,8;Farinhas, féculas e massas
+6504801;Miojo;189,86;5,65;7,18;25,54;Farinhas, féculas e massas
+6504802;Macarrão instantâneo;189,86;5,65;7,18;25,54;Farinhas, féculas e massas
+6505101;Sustagem;369,15;24,05;0,49;68,02;Farinhas, féculas e massas
+6505601;Proteína de soja;142,37;18,51;5,32;5,8;Farinhas, féculas e massas
+6505603;Proteína vegetal;142,37;18,51;5,32;5,8;Farinhas, féculas e massas
+6505701;Complemento alimentar de qualquer sabor;369,15;24,05;0,49;68,02;Farinhas, féculas e massas
+6506401;Proteína de soja orgânica;142,37;18,51;5,32;5,8;Farinhas, féculas e massas
+6600101;Cocodabaía (seco ou verde);354;3,33;33,49;15,23;Cocos, castanhas e nozes
+6600301;Castanha portuguesa;131;2;1,38;27,76;Cocos, castanhas e nozes
+6600401;Pinhão;174,37;2,98;0,75;43,92;Cocos, castanhas e nozes
+6600501;Amêndoa;578;21,26;50,64;19,74;Cocos, castanhas e nozes
+6600601;Avelã;628;14,95;60,75;16,7;Cocos, castanhas e nozes
+6600701;Castanhadopará;656;14,32;66,43;12,27;Cocos, castanhas e nozes
+6600801;Castanha de caju;574;15,31;46,35;32,69;Cocos, castanhas e nozes
+6600912;Butiá;105;1,9;2;22,8;Cocos, castanhas e nozes
+6601108;Tucumã;474;5,5;47,2;6,8;Cocos, castanhas e nozes
+6601208;Coco de mucajá;404,28;2,08;40,66;13,95;Cocos, castanhas e nozes
+6601501;Noz (nogueira);654;15,23;65,21;13,71;Cocos, castanhas e nozes
+6601706;Açaí ;262;3,6;2;57,4;Cocos, castanhas e nozes
+6601707;Juçara;262;3,6;2;57,4;Cocos, castanhas e nozes
+6601709;Uaçaí;262;3,6;2;57,4;Cocos, castanhas e nozes
+6601712;Jussara;262;3,6;2;57,4;Cocos, castanhas e nozes
+6601805;Pupunha;28;2,52;0,62;4,62;Cocos, castanhas e nozes
+6601902;Bacaba;212;3,12;19,8;6,6;Cocos, castanhas e nozes
+6601904;Bacabuçu;212;3,12;19,8;6,6;Cocos, castanhas e nozes
+6602001;Castanhadaíndia;656;14,32;66,43;12,27;Cocos, castanhas e nozes
+6602201;Pistache;557;20,61;44,44;27,97;Cocos, castanhas e nozes
+6602301;Buriti ;145;1,8;8,1;10,2;Cocos, castanhas e nozes
+6602401;Coco ;354;3,33;33,49;15,23;Cocos, castanhas e nozes
+6602601;Patauá ;105;1,9;2;22,8;Cocos, castanhas e nozes
+6700101;Alface;15;1,36;0,15;2,79;Hortaliças e frutosas
+6700201;Bertalha;45,3;2,97;2,78;3,75;Hortaliças e frutosas
+6700301;Chicória;17;1,25;0,2;3,35;Hortaliças e frutosas
+6700304;Escarola;52,88;1,61;3,75;4,31;Hortaliças e frutosas
+6700501;Couve;30;2,45;0,42;5,69;Hortaliças e frutosas
+6700701;Espinafre;23;2,97;0,26;3,75;Hortaliças e frutosas
+6700801;Mostarda (verdura);26;2,7;0,2;4,9;Hortaliças e frutosas
+6700901;Repolho;25;1,28;0,1;5,8;Hortaliças e frutosas
+6701101;Cebolinha;25;1,8;0,1;5,65;Hortaliças e frutosas
+6701301;Agrião;25;2,58;0,66;3,65;Hortaliças e frutosas
+6701401;Taioba;34;2,9;0,9;5,4;Hortaliças e frutosas
+6701501;Acelga;19;1,8;0,2;3,74;Hortaliças e frutosas
+6701505;Beterraba branca (acelga) ;14;1,5;0,17;2,41;Hortaliças e frutosas
+6701601;Almeirão;17;1,25;0,2;3,35;Hortaliças e frutosas
+6701602;Radite;17;1,25;0,2;3,35;Hortaliças e frutosas
+6701704;Brócolis;34;2,82;0,37;6,64;Hortaliças e frutosas
+6701801;Serralha;23;2,97;0,26;3,75;Hortaliças e frutosas
+6701901;Caruru;26;2,11;0,36;4,91;Hortaliças e frutosas
+6701906;Cuxá;26;2,11;0,36;4,91;Hortaliças e frutosas
+6701907;Vinagreira ;26;2,11;0,36;4,91;Hortaliças e frutosas
+6701913;Cariru;26;2,11;0,36;4,91;Hortaliças e frutosas
+6702001;Rúcula;25;2,58;0,66;3,65;Hortaliças e frutosas
+6702105;Jambu;32;1,9;0,3;7,2;Hortaliças e frutosas
+6702201;Língua de vaca (verdura);30;2,45;0,42;5,69;Hortaliças e frutosas
+6702301;Alcachofra;53;2,89;0,34;11,95;Hortaliças e frutosas
+6702501;Bredo;26;2,11;0,36;4,91;Hortaliças e frutosas
+6702604;Salsão (aipo);18;0,83;0,16;4;Hortaliças e frutosas
+6702801;Ervadoce;31;1,24;0,2;7,29;Hortaliças e frutosas
+6703003;Folha de aipim;30;2,45;0,42;5,69;Hortaliças e frutosas
+6703004;Folha de macaxeira;26;2,11;0,36;4,91;Hortaliças e frutosas
+6703101;Broto de feijão;30;3,04;0,18;5,94;Hortaliças e frutosas
+6703101;Broto de feijão;53,38;2,03;3,75;4,19;Hortaliças e frutosas
+6703306;Moranga;20;0,72;0,07;4,9;Hortaliças e frutosas
+6703701;Abobrinha;16;1,21;0,18;3,35;Hortaliças e frutosas
+6703805;Jerimum;20;0,72;0,07;4,9;Hortaliças e frutosas
+6703901;Abóbora;20;0,72;0,07;4,9;Hortaliças e frutosas
+6704001;Pépino;15;0,65;0,11;3,63;Hortaliças e frutosas
+6704101;Chuchu;24;0,62;0,48;5,09;Hortaliças e frutosas
+6704201;Jiló;22;1,87;0,21;4,51;Hortaliças e frutosas
+6704301;Maxixe;14;1,4;0,1;2,7;Hortaliças e frutosas
+6704306;Pepininho (maxixe);14;0,4;0,2;3,04;Hortaliças e frutosas
+6704401;Palmito in natura;28;2,52;0,62;4,62;Hortaliças e frutosas
+6704409;Guariroba (palmito in natura);28;2,52;0,62;4,62;Hortaliças e frutosas
+6704410;Gueroba (palmito in natura);28;2,52;0,62;4,62;Hortaliças e frutosas
+6704501;Pimentão;20;0,86;0,17;4,64;Hortaliças e frutosas
+6705001;Quiabo;22;1,87;0,21;4,51;Hortaliças e frutosas
+6705101;Tomate;18;0,88;0,2;3,92;Hortaliças e frutosas
+6705201;Vagem;35;1,89;0,28;7,88;Hortaliças e frutosas
+6705301;Cogumelo in natura;28;2,17;0,47;5,29;Hortaliças e frutosas
+6705401;Berinjela;32,9;0,78;0,22;8,21;Hortaliças e frutosas
+6705501;Ervilha em vagem;67,09;3,27;3,07;7,05;Hortaliças e frutosas
+6705701;Cebola;40;1,1;0,1;9,34;Hortaliças e frutosas
+6705801;Catalonha;42,94;1,88;2,68;4,13;Hortaliças e frutosas
+6706101;Jardineira (seleta);47;2,53;0,26;9,06;Hortaliças e frutosas
+6706102;Seleta (jardineira);47;2,53;0,26;9,06;Hortaliças e frutosas
+6706201;Alho;149;6,36;0,5;33,06;Hortaliças e frutosas
+6706301;Alhoporó;54,48;0,81;2,86;7,62;Hortaliças e frutosas
+6707301;Broto de alfafa;23;3,99;0,69;2,1;Hortaliças e frutosas
+6707801;Alface orgânica;15;1,36;0,15;2,79;Hortaliças e frutosas
+6707901;Tomate orgânico;18;0,88;0,2;3,92;Hortaliças e frutosas
+6708001;Pimentão orgânico;20;0,86;0,17;4,64;Hortaliças e frutosas
+6709701;Orégano;306;11;10,25;64,43;Hortaliças e frutosas
+6801017;Pacová;78;1,2;0,1;20,3;Frutas
+6801101;Banana (ouro, prata, d´água, da terra, etc.);89;1,09;0,33;22,84;Frutas
+6801801;Laranja (pera, seleta, lima, da terra, etc.);47;0,94;0,12;11,75;Frutas
+6801901;Lima;47;0,94;0,12;11,75;Frutas
+6802001;Limão (comum, galego, etc.);30;0,7;0,2;10,54;Frutas
+6802201;Tangerina;53;0,81;0,31;13,34;Frutas
+6802202;Mexerica;53;0,81;0,31;13,34;Frutas
+6802217;Bergamota;53;0,81;0,31;13,34;Frutas
+6802218;Mimosa;53;0,81;0,31;13,34;Frutas
+6802223;Tanja;53;0,81;0,31;13,34;Frutas
+6802227;Maricota;53;0,81;0,31;13,34;Frutas
+6802407;Laranjinha japonesa;47;0,94;0,12;11,75;Frutas
+6802501;Canadeaçúcar;73,58;0,9;0,05;19,97;Frutas
+6802601;Abacaxi;48;0,54;0,12;12,63;Frutas
+6802602;Ananás;48;0,54;0,12;12,63;Frutas
+6802701;Abacate;120;2,23;10,06;7,82;Frutas
+6802801;Caqui;70;0,58;0,19;18,59;Frutas
+6802901;Figo;74;0,75;0,3;19,18;Frutas
+6803001;Maçã;52;0,26;0,17;13,81;Frutas
+6803101;Mamão;39;0,61;0,14;9,81;Frutas
+6803108;Papaia;39;0,61;0,14;9,81;Frutas
+6803201;Manga;65;0,51;0,27;17;Frutas
+6803215;Manguito;65;0,51;0,27;17;Frutas
+6803301;Maracujá;97;2,2;0,7;23,38;Frutas
+6803401;Melancia;30;0,61;0,15;7,55;Frutas
+6803501;Melão;36;0,54;0,14;9,09;Frutas
+6803601;pera;58;0,38;0,12;15,46;Frutas
+6803701;Pêssego;39;0,91;0,25;9,54;Frutas
+6803801;Frutadeconde;74;1,65;0,62;17,7;Frutas
+6803802;Pinha (frutadeconde);74;1,65;0,62;17,7;Frutas
+6803803;Ata;74;1,65;0,62;17,7;Frutas
+6803901;Uva;69;0,72;0,16;18,1;Frutas
+6803912;Uva passa;299;3,07;0,46;79,18;Frutas
+6804001;Jenipapo ;113;5,2;0,3;25,7;Frutas
+6804101;Jaca;94;1,47;0,3;24,01;Frutas
+6804201;Goiaba;68;2,55;0,95;14,32;Frutas
+6804203;Araçáaçu (goiaba);68;2,55;0,95;14,32;Frutas
+6804301;Ameixa;46;0,7;0,28;11,42;Frutas
+6804401;Caju;43;1;0,3;10,3;Frutas
+6804501;Cereja;63;1,06;0,2;16,01;Frutas
+6804601;Cajámanga;46;1,3;0,3;11,4;Frutas
+6804602;Cajarana;46;0,2;0,1;12,4;Frutas
+6804701;Taperebá;70;0,8;2,1;13,8;Frutas
+6804702;Acaja (taberebá);46;1,3;0,3;11,4;Frutas
+6804801;Carambola;31;1,04;0,33;6,73;Frutas
+6804901;Jabuticaba;73;0,66;0,5;18,4;Frutas
+6805001;Graviola;62;0,8;0,2;15,8;Frutas
+6805201;Morango;32;0,67;0,3;7,68;Frutas
+6805301;Jambo;27;0,9;0,1;6,5;Frutas
+6805401;Atemoia ;74;1,65;0,62;17,7;Frutas
+6805601;Mangaba;43;0,7;0,3;10,5;Frutas
+6805701;Araçá;68;2,55;0,95;14,32;Frutas
+6805801;Nêspera;47;0,43;0,2;12,14;Frutas
+6805901;Frutapão;103;1,07;0,23;27,12;Frutas
+6806001;Sapoti;96;0,7;0,1;25,9;Frutas
+6806101;Uxi;252;2,2;10,1;38,2;Frutas
+6806201;Tamarindo;239;2,8;0,6;62,5;Frutas
+6806301;Cacau;74;1;0,1;19,4;Frutas
+6806401;Pitomba ;66;0,83;0,44;16,53;Frutas
+6806501;Bacuri;105;1,9;2;22,8;Frutas
+6806601;Ingá;60;1;0,1;15,5;Frutas
+6806701;Pequi;152;1,5;13,4;6,3;Frutas
+6806801;Pitanga ;41;0,9;0,2;10,2;Frutas
+6806901;Ciriguela;76;1,4;0,4;18,9;Frutas
+6807001;Murici;66;0,9;1,3;14,4;Frutas
+6807101;Umbu;37;0,8;0,3;9,4;Frutas
+6807103;Imbu;37;0,8;0,3;9,4;Frutas
+6807202;Biribá;74;1,65;0,62;17,7;Frutas
+6807301;Cupuaçu;49;1,2;1;10,4;Frutas
+6807401;Nectarina;44;1,06;0,32;10,55;Frutas
+6807501;Mari;281,1;2,7;21,1;20,1;Frutas
+6807601;Romã;56;0,4;0,3;15,1;Frutas
+6807701;Acerola;32;0,4;0,3;7,69;Frutas
+6807801;Kiwi;61;1,14;0,52;14,66;Frutas
+6808001;Abiu;62;0,8;0,7;14,9;Frutas
+6808201;Jurubeba;126;4,4;3,9;23,1;Frutas
+6808401;Fruta (não especificada);89;1,09;0,33;22,84;Frutas
+6808601;Maçã orgânica;52;0,26;0,17;13,81;Frutas
+6808901;Acerola orgânica;32;0,4;0,3;7,69;Frutas
+6809901;Amora;43;1,39;0,49;9,61;Frutas
+6810201;Jamelão (jamburão);73;0,66;0,5;18,4;Frutas
+6900302;Demerara;387;4,33;5,07;99,98;Açúcares
+6900304;Açúcar mascavo;380;0,12;5,07;98,09;Açúcares
+6900401;Rapadura;296;4,33;5,07;76,6;Açúcares
+6900402;Alfenim de cana;296;4,33;5,07;76,6;Açúcares
+6900403;Batida (rapadura);380;0,12;5,07;98,09;Açúcares
+6900501;Sorvete de qualquer sabor industrializado;206;3,6;11;25,13;Açúcares
+6900502;Picolé de qualquer sabor industrializado;79;4,33;0,24;19,23;Açúcares
+6900601;Chiclete;396;4,33;5,07;98,9;Açúcares
+6900603;Bala;394;4,33;0,2;98;Açúcares
+6900604;Caramelo (bala);382;4,6;8,1;77;Açúcares
+6900605;Drops;394;4,33;0,2;98;Açúcares
+6900606;Pastilha;396;4,33;5,07;98,9;Açúcares
+6900607;Pirulito;394;4,33;0,2;98;Açúcares
+6900609;Goma de mascar;396;4,33;5,07;98,9;Açúcares
+6900610;Jujuba;375;4,33;0,05;93,55;Açúcares
+6900701;Tablete de chocolate;535;7,65;29,66;59,4;Açúcares
+6900702;Barra de chocolate;535;7,65;29,66;59,4;Açúcares
+6900706;Confete;492;4,33;21,13;71,19;Açúcares
+6900801;Chocolate em pó de qualquer marca;364,24;2,83;3,55;85,53;Açúcares
+6900818;Ovomaltine;388;9,17;5,19;75,13;Açúcares
+6900821;Achocolatado em pó;400;4,55;2,27;90,28;Açúcares
+6900822;Toddynho;83,32;3,18;3,4;10,38;Açúcares
+6900901;Bombom de qualquer marca;373;4,33;0,02;93,18;Açúcares
+6900904;Trufa ;487,87;3,57;36,26;49,06;Açúcares
+6901001;Geleia de frutas de qualquer marca ou sabor;278;0,37;0,07;68,86;Açúcares
+6901002;Mousse de qualquer sabor (Geleia) ;331,89;5,09;21,87;32,19;Açúcares
+6901101;Geleia de mocotó;120,25;3,04;5,07;27,99;Açúcares
+6901201;Doce de frutas em pasta de qualquer sabor;291,3;0,77;0,29;74,28;Açúcares
+6901203;Pasta de amendoim;588;25,09;50,39;19,56;Açúcares
+6901204;Pessegada;77;0,54;0,14;19,79;Açúcares
+6901206;Marmelada;278;0,37;0,07;68,86;Açúcares
+6901209;Figada;88;0,38;0,1;22,9;Açúcares
+6901211;Goiabada;291,3;0,77;0,29;74,28;Açúcares
+6901214;Caju em pasta;291,3;0,77;0,29;74,28;Açúcares
+6901224;Mariola;291,3;0,77;0,29;74,28;Açúcares
+6901301;Doce de frutas em calda de qualquer sabor;77;0,54;0,14;19,79;Açúcares
+6901401;Doce de frutas cristalizado de qualquer sabor;291,3;0,77;0,29;74,28;Açúcares
+6901501;Melado;296;4,33;5,07;76,6;Açúcares
+6901602;Mel ;304;0,3;5,07;82,4;Açúcares
+6901701;Gelatina de qualquer sabor;278;0,37;0,07;68,86;Açúcares
+6901801;Adoçante artificial;331,89;4,33;5,07;62,9;Açúcares
+6902004;Merengue;358,26;6,21;0,1;85,89;Açúcares
+6902301;Schimier de cana;296;4,33;5,07;76,6;Açúcares
+6902401;Fruta seca ou desidratada;240;2,18;0,38;63,88;Açúcares
+6902402;Passa;299;3,07;0,46;79,18;Açúcares
+6902601;Pudim de qualquer sabor;131,15;5,58;5,07;15,44;Açúcares
+6902607;Danette pudim;131,15;5,58;5,07;15,44;Açúcares
+6902701;Manjar;284,98;8,2;10,74;40,14;Açúcares
+6902901;Cuscuz;128,3;4,35;0,22;26,42;Açúcares
+6902902;Cuscuz de tapioca;116,99;4,33;4,1;15,51;Açúcares
+6903001;Mariamole;444,92;1,64;19,94;68,84;Açúcares
+6903101;Cocada;404,8;1,01;12,46;75,65;Açúcares
+6903102;Quebraqueixo;404,8;1,01;12,46;75,65;Açúcares
+6903201;Doce de amendoim;451,58;11,16;23,89;55,29;Açúcares
+6903202;Pé de moleque;474;9,1;17,91;69,2;Açúcares
+6903203;Paçoca;472,17;10,35;21,53;64,04;Açúcares
+6903204;Torrão de amendoim;460,34;11,01;24,64;56,27;Açúcares
+6903205;Paçoquinha de amendoim;472,17;10,35;21,53;64,04;Açúcares
+6903207;Amendoim caramelizado;474;9,1;17,91;69,2;Açúcares
+6903601;Brigadeiro;334,48;7,52;10,14;54,86;Açúcares
+6903701;Bomba de qualquer tipo;339,26;6,32;26,93;18,55;Açúcares
+6903801;Mil folhas;440,33;2,36;29,03;43,22;Açúcares
+6903901;Queijadinha;404,8;1,01;12,46;75,65;Açúcares
+6904101;Doce à base de ovos;131,15;5,58;5,07;15,44;Açúcares
+6904104;Caçarola italiana;284,98;8,2;10,74;40,14;Açúcares
+6904105;Quindim;131,15;5,58;5,07;15,44;Açúcares
+6904108;Fios de ovos;131,15;5,58;5,07;15,44;Açúcares
+6904201;Doce à base de leite;319,7;7,88;8,67;54,18;Açúcares
+6904202;Pavê de qualquer sabor;306,43;4,94;22,24;21,59;Açúcares
+6904203;Ambrosia;144,23;4,09;3,84;23,88;Açúcares
+6904204;Leite geleificado;131,15;5,58;5,07;15,44;Açúcares
+6904205;Chandele de qualquer sabor;131,15;5,58;5,07;15,44;Açúcares
+6904302;Mumu ;319,7;7,88;8,67;54,18;Açúcares
+6904401;Canudinho recheado;123,26;2,43;4,5;21,33;Açúcares
+6904501;Sarolho;336;2;5,07;82;Açúcares
+6904502;Beiju;336;2;5,07;82;Açúcares
+6904601;Schimier de fruta (exceto de cana);278;0,37;0,07;68,86;Açúcares
+6904701;Beijo de moça;387;4,33;5,07;99,98;Açúcares
+6904801;Picolé ensacado;79;4,33;0,24;19,23;Açúcares
+6904807;Geladinho;122,69;0,14;0,09;32,51;Açúcares
+6905001;Churro;401,66;3;23,44;45,94;Açúcares
+6905101;Pamonha;171;2,6;4,8;30,7;Açúcares
+6905401;Algodãodoce;387;4,33;5,07;99,98;Açúcares
+6905603;IoIô crem (chocolate em creme);350;4,6;8,9;62,9;Açúcares
+6905801;Ovo de páscoa;535;7,65;29,66;59,4;Açúcares
+6905804;Kinder ovo;535;7,65;29,66;59,4;Açúcares
+6905901;Torrone;460,34;11,01;24,64;56,27;Açúcares
+6906001;Arrozdoce;108,49;3,05;2,34;18,77;Açúcares
+6906404;Polpa de coco;402;3,8;41,7;9,8;Açúcares
+6906501;Diet shake;335,52;19,19;1,87;69,94;Açúcares
+6906502;Concentrado alimentar diet shake;335,52;19,19;1,87;69,94;Açúcares
+6906602;Açúcar ;387;4,33;5,07;99,98;Açúcares
+6907001;Açúcar light;400;4,33;5,07;100;Açúcares
+6907201;Barra de cereais;352,92;3,17;8,55;69,44;Açúcares
+6907202;Barra de cereais salgada;352,92;3,17;8,55;69,44;Açúcares
+6907203;Barra de cereais doce;352,92;3,17;8,55;69,44;Açúcares
+6907301;Sobremesa de qualquer tipo (exceto infantil);131,15;5,58;5,07;15,44;Açúcares
+6907401;Rabanada;293;4,7;16,6;31,3;Açúcares
+6907501;Milk shake ;161,09;3,11;6,43;23,49;Açúcares
+6907901;Geleia diet;52,64;0,47;0,17;12,72;Açúcares
+6908001;Doce de frutas diet;52,64;0,47;0,17;12,72;Açúcares
+6908401;Pastéis de santa clara;131,15;5,58;5,07;15,44;Açúcares
+6908501;Suspiro;358,26;6,21;0,1;85,89;Açúcares
+6909301;Doce de frutas cristalizado de qualquer sabor diet;52,64;0,47;0,17;12,72;Açúcares
+6909601;Sorvete de qualquer sabor industrializado light;188,99;4,43;7,67;26,15;Açúcares
+6909701;Sorvete de qualquer sabor industrializado diet;190;3,17;12,7;15,87;Açúcares
+6909803;Bala light;235;4,33;5,07;95;Açúcares
+6909901;Chiclete diet;240;4,33;5,07;100;Açúcares
+6909903;Bala diet;235;4,33;5,07;95;Açúcares
+6910002;Barra de chocolate light;539,79;10,58;41,64;40,42;Açúcares
+6910221;Achocolatado em pó light;337,7;29,42;2,39;55,3;Açúcares
+6910322;Toddynho diet;73,29;3,48;3,51;7,09;Açúcares
+6910401;Bombom de qualquer marca light;373;4,33;0,02;93,18;Açúcares
+6910601;Geleia de frutas de qualquer marca ou sabor light;179,01;0,36;0,05;46,13;Açúcares
+6910702;Doce de frutas em pasta light;179,01;0,36;0,05;46,13;Açúcares
+6910808;Pudim danette light;119,15;5,68;3,55;15,75;Açúcares
+6911201;Doce de leite light;292,29;7,58;3,62;58,98;Açúcares
+6912502;Barra de cereais doce diet;403,45;5,56;5,44;86,36;Açúcares
+6912801;Milk shake diet;335,52;19,19;1,87;69,94;Açúcares
+6913001;Cocada diet;404,8;1,01;12,46;75,65;Açúcares
+6913101;Doce de amendoim diet;599;28,03;52,5;15,26;Açúcares
+6913103;Paçoca diet;599;28,03;52,5;15,26;Açúcares
+6913108;Amendoim amanteigado diet;477,86;7,09;21,64;64,64;Açúcares
+6913801;Doce à base de leite diet;292,29;7,58;3,62;58,98;Açúcares
+6913901;Gelatina de qualquer sabor light;179,01;0,36;0,05;46,13;Açúcares
+6914001;Adoçante light;365;2,17;5,07;89,08;Açúcares
+7001501;Mostarda molho;67;4,37;4,01;5,33;Sais e condimentos
+7002304;Hortelã;1;1,87;2,06;0,2;Sais e condimentos
+7002401;Alcaparra em conserva;23;2,36;0,86;4,89;Sais e condimentos
+7002601;Coentro;279;21,93;4,78;52,1;Sais e condimentos
+7003601;Molho de soja;53;6,28;0,04;7,61;Sais e condimentos
+7003604;Shoyo;53;6,28;0,04;7,61;Sais e condimentos
+7003801;Leite de coco;202,46;1,61;20,85;5,59;Sais e condimentos
+7004301;Maionese (molho);261,05;0,47;23,33;13,38;Sais e condimentos
+7004701;Massa de tomate;38;1,65;0,21;8,98;Sais e condimentos
+7004801;Molho de tomate;24;1,32;0,18;5,38;Sais e condimentos
+7004802;Ketchup;97;1,74;0,31;25,15;Sais e condimentos
+7004803;Catchup;97;1,74;0,31;25,15;Sais e condimentos
+7006101;Pimenta em pó;255;10,95;3,26;64,81;Sais e condimentos
+7007101;Tucupi em caldo sem pimenta;4,87;0,01;0;1,3;Sais e condimentos
+7007502;Creme de queijo;209,66;10,34;15,81;6,72;Sais e condimentos
+7007701;Caldo de peixe;16;2;0,6;0,4;Sais e condimentos
+7007901;Caldo de tomate;37,65;0,75;0,78;7,39;Sais e condimentos
+7009102;Gergelim;631;20,45;61,21;11,73;Sais e condimentos
+7010301;Tomate seco;213;5,06;14,08;23,33;Sais e condimentos
+7010401;Maionese (molho) light;156,58;0,59;9,46;18,77;Sais e condimentos
+7010501;Molho de soja light;53,13;5,18;0,08;8,53;Sais e condimentos
+7010601;Leite de coco light;202,46;1,61;20,85;5,59;Sais e condimentos
+7079202;Vinagrete;76,79;0,65;6,21;3,68;Sais e condimentos
+7100101;Filémignon;204;30,67;9;3,76;Carnes
+7100201;Contrafilé;204;30,67;9;3,76;Carnes
+7100205;Bisteca bovina;471;21,57;41,98;3,76;Carnes
+7100301;Alcatra;204;30,67;9;3,76;Carnes
+7100303;Maminha;199;36,12;5;3,76;Carnes
+7100304;Picanha;204;30,67;9;3,76;Carnes
+7100501;Patinho;199;36,12;5;3,76;Carnes
+7100502;Cabeça de lombo (carne bovina);199;36,12;5;3,76;Carnes
+7100604;Posta branca;199;36,12;5;3,76;Carnes
+7100606;Tatu (lagarto redondo);199;36,12;5;3,76;Carnes
+7100607;Paulista;199;36,12;5;3,76;Carnes
+7100608;Lombo paulista (carne bovina);199;36,12;5;3,76;Carnes
+7100702;Posta vermelha;199;36,12;5;3,76;Carnes
+7100801;Acém;242;24,22;15,42;3,76;Carnes
+7100803;Agulha (acém);242;24,22;15,42;3,76;Carnes
+7100905;Paleta ;264,66;24,22;17,98;3,76;Carnes
+7100908;Pá com osso;242;24,22;15,42;3,76;Carnes
+7101001;Músculo bovino;199;36,12;5;3,76;Carnes
+7101006;Chambaril;242;24,22;15,42;3,76;Carnes
+7101009;Carne marica bovina;199;36,12;5;3,76;Carnes
+7101011;Vazio (carne bovina);204;30,67;9;3,76;Carnes
+7101101;Peito bovino;204;30,67;9;3,76;Carnes
+7101202;Fraldinha (capa de filé);199;36,12;5;3,76;Carnes
+7101203;Aba de filé ;242;24,22;15,42;3,76;Carnes
+7101301;Costela bovina;365;22,6;29,79;3,76;Carnes
+7101704;Jacaré (carne bovina de segunda c/ osso);365;22,6;29,79;3,76;Carnes
+7101706;Filé de segunda;242;24,22;15,42;3,76;Carnes
+7101801;Víscera bovina ;191;29,08;5,26;5,13;Carnes
+7101806;Panelada (vísceras bovinas não especificadas);100,04;13,98;2,96;4,18;Carnes
+7101901;Coração bovino;165;28,48;4,73;0,15;Carnes
+7102001;Rim de boi ;158;27,27;4,65;3,76;Carnes
+7102102;Bofe bovino;158;27,27;4,65;3,76;Carnes
+7102201;Miolo de boi;151;11,67;10,53;1,48;Carnes
+7102401;Tripa bovina;94;11,71;4,05;1,99;Carnes
+7102402;Dobradinha fresca;94;11,71;4,05;1,99;Carnes
+7102403;Fato bovino;116,66;11,71;6,61;1,99;Carnes
+7102601;Cupim;330,1;28,63;23,04;3,76;Carnes
+7102701;Língua bovina;284;19,29;22,3;3,76;Carnes
+7102801;Rabada de boi;365;22,6;29,79;3,76;Carnes
+7103101;Mocotó bovino;214;28,81;10,13;3,76;Carnes
+7103104;Braço bovino;221,66;36,12;7,56;3,76;Carnes
+7103105;Mão bovina;214;28,81;10,13;3,76;Carnes
+7103301;Carré ;397;29,06;30,3;3,76;Carnes
+7103305;Bisteca suína;397;29,06;30,3;3,76;Carnes
+7103401;Pernil suíno;289;25,34;20,06;3,76;Carnes
+7103403;Quarto suíno;289;25,34;20,06;3,76;Carnes
+7103501;Costela suína;397;29,06;30,3;3,76;Carnes
+7103701;Lombo suíno;289;25,34;20,06;3,76;Carnes
+7103801;Toucinho;541;37,04;41,78;1,43;Carnes
+7103903;Míudo suíno;165;26,02;4,4;3,76;Carnes
+7103906;Arrasto suíno;100,04;13,98;2,96;4,18;Carnes
+7103907;Sarapatel suíno fresco;100,04;13,98;2,96;4,18;Carnes
+7104101;Carne suína;289;25,34;20,06;3,76;Carnes
+7104302;Guisado ;242;24,22;15,42;3,76;Carnes
+7104501;Tripa suína;233;12,49;20,32;3,76;Carnes
+7104601;Figado suíno;165;26,02;4,4;3,76;Carnes
+7104701;Língua suína;271;24,1;18,6;3,76;Carnes
+7105001;Orelha suína fresca;214;28,81;10,13;3,76;Carnes
+7105103;Sarrabulho;100,04;13,98;2,96;4,18;Carnes
+7105203;Mocotó suíno;214;28,81;10,13;3,76;Carnes
+7105401;Carne de cabrito ;143;27,1;3,03;3,76;Carnes
+7105402;Carne de bode;143;27,1;3,03;3,76;Carnes
+7105403;Carne caprina;143;27,1;3,03;3,76;Carnes
+7105405;Carne de caprino;143;27,1;3,03;3,76;Carnes
+7105601;Carne de carneiro;204;28,35;9,17;3,76;Carnes
+7105602;Carne de ovelha;204;28,35;9,17;3,76;Carnes
+7105801;Mocotó de caprino;214;28,81;10,13;3,76;Carnes
+7106301;Pernil ;289;25,34;20,06;3,76;Carnes
+7106401;Lagarto bovino ;199;36,12;5;3,76;Carnes
+7106501;Alcatra suína;289;25,34;20,06;3,76;Carnes
+7107102;Brachola;204;30,67;9;3,76;Carnes
+7107103;Bife role cru;204;30,67;9;3,76;Carnes
+7107204;Buchada de bode;125;19,8;4,4;3,76;Carnes
+7107501;Suã suína;397;29,06;30,3;3,76;Carnes
+7107601;Carne de outros animais;242;24,22;15,42;3,76;Carnes
+7107603;Carne da paca;212;34,85;6,96;3,76;Carnes
+7107611;Carne de jacaré;92;19,4;1,6;3,76;Carnes
+7107615;Carne de capivara;212;34,85;6,96;3,76;Carnes
+7107617;Carne de cotia;212;34,85;6,96;3,76;Carnes
+7107622;Carne de jabuti;117;24,16;1,53;3,76;Carnes
+7107801;Carne de primeira ;204;30,67;9;3,76;Carnes
+7107804;Chuleta;204;30,67;9;3,76;Carnes
+7107805;Filé não especificado;204;30,67;9;3,76;Carnes
+7108107;Miúdo de bode ;191;29,08;5,26;5,13;Carnes
+7108301;Pé suíno fresco;214;28,81;10,13;3,76;Carnes
+7109101;Carne bovina ;242;24,22;15,42;3,76;Carnes
+7110601;Lombo não especificado;289;25,34;20,06;3,76;Carnes
+7110801;Músculo não especificado;199;36,12;5;3,76;Carnes
+7110902;Ossada não especificada;164;26,13;5,81;3,76;Carnes
+7111202;Carne de segunda ;242;24,22;15,42;3,76;Carnes
+7111401;Contrafilé orgânico;204;30,67;9;3,76;Carnes
+7111405;Bisteca orgânica;471;21,57;41,98;3,76;Carnes
+7111702;Cabeça de lombo (carne bovina) orgânica;199;36,12;5;3,76;Carnes
+7111806;Tatu (lagarto redondo) orgânico;199;36,12;5;3,76;Carnes
+7200101;Peixe de mar (inteiro, em posta, em filé, etc.)  ;117;24,16;1,53;5,13;Pescados e frutos do mar
+7200401;Peixe de mar salgado (inteiro, em posta, em filé, etc.) ;117;24,16;1,53;5,13;Pescados e frutos do mar
+7260101;Camarão;99;20,91;1,08;5,13;Pescados e frutos do mar
+7261101;Siri;102;20,2;1,77;5,13;Pescados e frutos do mar
+7261120;Bau (siri);102;20,2;1,77;5,13;Pescados e frutos do mar
+7261121;Goiá;102;20,2;1,77;5,13;Pescados e frutos do mar
+7262101;Caranguejo;102;20,2;1,77;5,13;Pescados e frutos do mar
+7262105;Guaiamu;102;20,2;1,77;5,13;Pescados e frutos do mar
+7263101;Marisco;148;25,55;1,95;5,13;Pescados e frutos do mar
+7264101;Ostra;137;14,1;4,91;7,82;Pescados e frutos do mar
+7265101;Lula;143,84;18,32;4,19;6,92;Pescados e frutos do mar
+7266101;Sururu;148;25,55;1,95;5,13;Pescados e frutos do mar
+7273101;Ovas de peixe (qualquer espécie);204;28,62;8,23;1,92;Pescados e frutos do mar
+7270401;Bacalhau;117;24,16;1,53;5,13;Pescados e frutos do mar
+7400101;Peixe de água doce (inteiro, em posta, em filé, etc.) ;117;24,16;1,53;5,13;Pescados e frutos do mar
+7444101;Tracajá;117;24,16;1,53;5,13;Pescados e frutos do mar
+7600101;Peixe não especificado (inteiro, em posta, em filé, etc.);117;24,16;1,53;5,13;Pescados e frutos do mar
+7700101;Azeitona;145;1,03;15,32;3,84;Pescados e frutos do mar
+7700201;Ervilha em conserva;69;4,42;0,35;12,58;Pescados e frutos do mar
+7700202;Petitpois;69;4,42;0,35;12,58;Pescados e frutos do mar
+7700401;Milho verde em conserva;81;2,64;0,93;18,8;Pescados e frutos do mar
+7700501;Palmito em conserva;28;2,52;0,62;4,62;Pescados e frutos do mar
+7700601;Cogumelo em conserva;50,74;1,87;3,2;5,09;Pescados e frutos do mar
+7700602;Champignon em conserva;50,74;1,87;3,2;5,09;Pescados e frutos do mar
+7700701;Aspargo em conserva;19;2,14;0,65;2,46;Pescados e frutos do mar
+7700901;Repolho em conserva;19;0,91;0,14;4,28;Pescados e frutos do mar
+7700902;Chucrute;19;0,91;0,14;4,28;Pescados e frutos do mar
+7701101;Legume não especificado em conserva;47;2,53;0,26;9,06;Pescados e frutos do mar
+7701404;Creme de cebola (sopa desidratada);46,31;0,82;2,47;5,34;Pescados e frutos do mar
+7701405;Creme de legumes (sopa desidratada);10,55;0,48;0,02;2,15;Pescados e frutos do mar
+7701406;Yakissoba ;527;8,38;30,76;57,54;Pescados e frutos do mar
+7701501;Milho verde com ervilha em conserva;79,52;3,83;0,47;16,81;Pescados e frutos do mar
+7701901;Feijoada;181,59;11,11;7,9;16,92;Pescados e frutos do mar
+7702001;Feijão branco com dobradinha em conserva;136,38;10,68;5,91;10,2;Pescados e frutos do mar
+7702101;Cozido;87,33;5,61;3,79;7,93;Pescados e frutos do mar
+7702302;Pasta de carne em conserva;245,65;9,89;16,89;14,1;Pescados e frutos do mar
+7702402;Pasta de presunto em conserva;276,46;17,86;21,43;1,8;Pescados e frutos do mar
+7702502;Pasta de galinha em conserva;214,36;16,39;14,53;3,66;Pescados e frutos do mar
+7702601;Carne bovina em conserva;242;24,22;15,42;5,13;Pescados e frutos do mar
+7702602;Almôndega ;214,85;20,64;9,2;11;Pescados e frutos do mar
+7702603;Kitute bovino;242;24,22;15,42;5,13;Pescados e frutos do mar
+7702604;Almôndega ao molho em conserva;203,52;16,16;10,72;9,7;Pescados e frutos do mar
+7702704;Kitute suíno;178;22,62;9,02;5,13;Pescados e frutos do mar
+7702705;Presuntada;178;22,62;9,02;5,13;Pescados e frutos do mar
+7702707;Fiambre ;178;22,62;9,02;5,13;Pescados e frutos do mar
+7702801;Salsicha em conserva;269,08;8,3;25,81;0,27;Pescados e frutos do mar
+7703402;Atum em conserva;198;29,13;8,21;5,13;Pescados e frutos do mar
+7703701;Pepino em conserva;12;0,6;0,14;2,59;Pescados e frutos do mar
+7703902;Pasta de peixe em conserva;198;29,13;8,21;5,13;Pescados e frutos do mar
+7704001;Picles;12;0,6;0,14;2,59;Pescados e frutos do mar
+7705201;Nabo em conserva;43,26;0,87;0,19;9,94;Pescados e frutos do mar
+7705401;Strogonoff ;147,68;12,83;9,11;4,13;Pescados e frutos do mar
+7706001;Salmão em conserva;136;23,08;4,83;5,13;Pescados e frutos do mar
+7706104;Creme de cebola (sopa desidratada) light;46,31;0,82;2,47;5,34;Pescados e frutos do mar
+7706105;Creme de legumes (sopa desidratada) light;10,55;0,48;0,02;2,15;Pescados e frutos do mar
+7800103;Frango inteiro;239;27,3;13,6;1,12;Aves e ovos  
+7800301;Parte de galinha ou frango não especificada;239;27,3;13,6;1,12;Aves e ovos  
+7800302;Frango em pedaços;239;27,3;13,6;1,12;Aves e ovos  
+7800303;Galinha em pedaços ;239;27,3;13,6;1,12;Aves e ovos  
+7800304;Carne de galinha ;239;27,3;13,6;1,12;Aves e ovos  
+7800401;Peito de galinha ou frango;173;30,91;4,51;1,12;Aves e ovos  
+7800402;Filé de frango;173;30,91;4,51;1,12;Aves e ovos  
+7800602;Carcaça de galinha ou frango;173;30,91;4,51;1,12;Aves e ovos  
+7800702;Drumete de galinha ou frango;213;27,73;10,5;1,12;Aves e ovos  
+7800801;Pescoço de galinha ou frango;300;25,95;20,97;1,12;Aves e ovos  
+7801001;Miúdo de galinha ou frango ;167;24,46;6,51;0,87;Aves e ovos  
+7801101;Moela de galinha ou frango;146;30,39;2,68;1,12;Aves e ovos  
+7801202;Coração de frango;185;26,41;7,92;0,1;Aves e ovos  
+7801301;Fígado de galinha ou frango;167;24,46;6,51;0,87;Aves e ovos  
+7801407;Canja ;31,47;1,61;1,06;3,64;Aves e ovos  
+7801702;Peru em pedaço não especificado;207;26,94;10,24;1,12;Aves e ovos  
+7801801;Peito de peru;140;30,19;1,18;1,12;Aves e ovos  
+7802101;Asa de peru;229;27,38;12,43;1,12;Aves e ovos  
+7802701;Chester ;207;26,94;10,24;1,12;Aves e ovos  
+7802702;Tender;178;22,62;9,02;1,12;Aves e ovos  
+7802801;Nambu ;219;23,9;13;1,12;Aves e ovos  
+7802901;Nuggets de frango;273,02;16,24;15,63;15,91;Aves e ovos  
+7802902;Steak de frango;211,84;31,37;7,12;3,39;Aves e ovos  
+7803001;Codorna;269,66;32,4;14,66;1,12;Aves e ovos  
+7803201;Pé e asa de galinha ou frango;290;26,86;19,46;1,12;Aves e ovos  
+7803301;Ovo de galinha;155;12,58;10,61;1,12;Aves e ovos  
+7803501;Ovo de codorna;155;12,58;10,61;1,12;Aves e ovos  
+7803702;Galinhad'angola abatida, congelada ou viva;247;32,4;12,1;1,12;Aves e ovos  
+7803703;Capote ;247;32,4;12,1;1,12;Aves e ovos  
+7803707;Mutum ;239;27,3;13,6;1,12;Aves e ovos  
+7803907;Pato em pedaços;201;26,14;9,97;1,12;Aves e ovos  
+7803908;Peito de pato;223,66;26,14;12,53;1,12;Aves e ovos  
+7803913;Carne de pato ;201;26,14;9,97;1,12;Aves e ovos  
+7805401;Peito de peru light;140;30,19;1,18;1,12;Aves e ovos  
+7805501;Frango inteiro orgânico;239;27,3;13,6;1,12;Aves e ovos  
+7900101;Leite de vaca integral;60,03;3,22;3,25;4,52;Laticínios
+7900201;Leite de vaca fresco ;60,03;3,22;3,25;4,52;Laticínios
+7900301;Leite de cabra;69,03;3,56;4,14;4,45;Laticínios
+7900601;Leite em pó integral;480;25,76;26;36,16;Laticínios
+7900710;Leite em pó desnatado;358;35,1;0,72;52,19;Laticínios
+7900801;Leite em pó ;480;25,76;26;36,16;Laticínios
+7900901;Leite condensado;319,7;7,88;8,67;54,18;Laticínios
+7900903;Leite beijinho;319,7;7,88;8,67;54,18;Laticínios
+7901001;Creme de leite;292;2,17;30,91;2,96;Laticínios
+7901101;Chantilly;276,39;2,93;24,57;12,36;Laticínios
+7901201;Iogurte de qualquer sabor;98,69;3,46;3,47;14,62;Laticínios
+7901301;Yakult de qualquer sabor;69,3;3,03;0,07;14,46;Laticínios
+7901303;Bebida láctea;91,13;2,78;1,15;18,03;Laticínios
+7901304;Leite fermentado;50,23;3,32;1,98;4,7;Laticínios
+7901401;Coalhada;61;3,47;3,25;4,66;Laticínios
+7901501;Manteiga com ou sem sal;717;0,85;81,11;0,06;Laticínios
+7901701;Queijo prato;302;25,96;20,03;3,83;Laticínios
+7901801;Queijo muçarela;318;21,6;24,64;2,47;Laticínios
+7901803;Muçarela;318;21,6;24,64;2,47;Laticínios
+7902005;Queijo de coalho;373;24,48;30,28;0,68;Laticínios
+7902008;Queijo canastra;240;17,6;14,1;10,6;Laticínios
+7902201;Queijo ricota;174;11,26;12,98;3,04;Laticínios
+7902301;Leite de soja com sabor ;64,05;3,68;1,65;9,07;Laticínios
+7902303;Ades original;54;3,27;1,75;6,28;Laticínios
+7902403;Queijo ralado;431;38,46;28,61;4,06;Laticínios
+7902501;Queijo provolone;351;25,58;26,62;2,14;Laticínios
+7902801;Queijo polenguinho;349;7,55;34,87;2,66;Laticínios
+7902901;Requeijão;231;10,6;17,6;7;Laticínios
+7902902;Queijo cremoso;231;10,6;17,6;7;Laticínios
+7903001;Queijo não especificado;375;22,15;31,25;1,6;Laticínios
+7903101;Leite com sabor;83,32;3,18;3,4;10,38;Laticínios
+7903102;Leite achocolatado;83,32;3,18;3,4;10,38;Laticínios
+7903109;Leite aRomãtizado;83,32;3,18;3,4;10,38;Laticínios
+7903110;Bebida achocolatada;83,32;3,18;3,4;10,38;Laticínios
+7903201;Nata;195;2,7;19,31;3,66;Laticínios
+7903301;Queijo gorgonzola;353;21,4;28,74;2,34;Laticínios
+7903402;Tofu;61;6,55;3,69;1,8;Laticínios
+7903501;Leite de soja em pó;408,33;32,85;13,22;42,13;Laticínios
+7903601;Leite de vaca desnatado;34,15;3,39;0,08;4,98;Laticínios
+7903702;Leite de vaca semidesnatado;42;3,37;0,97;4,99;Laticínios
+7903801;Leite não especificado pasteurizado;60,03;3,22;3,25;4,52;Laticínios
+7903901;Iogurte de qualquer sabor light;102;4,37;1,08;19,05;Laticínios
+7904001;Iogurte de qualquer sabor diet;51,35;3,11;2,65;3,88;Laticínios
+7904201;Margarina light;253,69;0,08;28,52;0,27;Laticínios
+7904301;Leite de vaca integral orgânico;60,03;3,22;3,25;4,52;Laticínios
+7904401;Leite de vaca fresco orgânico;60,03;3,22;3,25;4,52;Laticínios
+7904601;Leite semidesnatado de vaca orgânico;42;3,37;0,97;4,99;Laticínios
+7904701;Creme de leite orgânico;292;2,17;30,91;2,96;Laticínios
+7904801;Iogurte de qualquer sabor orgânico;98,69;3,46;3,47;14,62;Laticínios
+7904803;Iogurte de qualquer sabor desnatado orgânico;95;4,4;0,2;19;Laticínios
+7904804;Iogurte natural de qualquer sabor orgânico;61;3,47;3,25;4,66;Laticínios
+7905103;Muçarela light;302;25,96;20,03;3,83;Laticínios
+7905104;Queijo muçarela light;302;25,96;20,03;3,83;Laticínios
+7905201;Leite de soja com sabor light;53,21;2,56;1,03;8,62;Laticínios
+7905203;Ades light;39,37;1,99;0,82;6,18;Laticínios
+7905601;Creme de leite light;59;2,6;1,4;9;Laticínios
+7905901;Queijo prato light;297,3;24,49;21,36;1,22;Laticínios
+7906001;Queijo de minas light;90;13,74;1,93;3,63;Laticínios
+7906005;Queijo de coalho light;297,3;24,49;21,36;1,22;Laticínios
+7906201;Queijo ricota light;92,69;14,56;0,29;7,08;Laticínios
+7906303;Queijo ralado light;265;20;20;1,37;Laticínios
+7906401;Queijo polenguinho light;231;10,6;17,6;7;Laticínios
+7906501;Requeijão light;231;10,6;17,6;7;Laticínios
+7906601;Queijo não especificado light;90;13,74;1,93;3,63;Laticínios
+7906702;Leite achocolatado light;63;3,24;1;10,44;Laticínios
+7906710;Bebida achocolatada light;63;3,24;1;10,44;Laticínios
+7906801;Leite com sabor diet;73,29;3,48;3,51;7,09;Laticínios
+7906802;Leite achocolatado diet;73,29;3,48;3,51;7,09;Laticínios
+7906810;Bebida achocolatada diet;73,29;3,48;3,51;7,09;Laticínios
+7906901;Leite de soja em pó light;379,58;32,94;2,8;59,92;Laticínios
+7907001;Leite em pó com sabor;405;3,3;3,1;90,9;Laticínios
+7907101;Manteiga com ou sem sal light;347,32;0,41;39,29;0,03;Laticínios
+7907301;Queijo de minas frescal orgânico;240;17,6;14,1;10,6;Laticínios
+7907305;Queijo de coalho frescal orgânico;373;24,48;30,28;0,68;Laticínios
+8000103;Pão de hambúrguer;279;9,5;4,33;49,45;Panificados
+8000105;Pão de sal;300;8;3,1;58,6;Panificados
+8000201;Pão doce;355,23;5,15;13,08;55,83;Panificados
+8000203;Chineque;355,23;5,15;13,08;55,83;Panificados
+8000218;Chineque com farofa;355,23;5,15;13,08;55,83;Panificados
+8000229;Pão de mel;508,36;4,46;18,34;85,04;Panificados
+8000234;Panetone;355,95;7,45;10,43;58,03;Panificados
+8000237;Bisnaguinha;310;10,86;6,47;52,04;Panificados
+8000240;Croissant;455,16;8,04;26,26;46,84;Panificados
+8000501;Pão de forma industrializado de qualquer marca;266;7,64;3,29;50,61;Panificados
+8000801;Pão de queijo;363;5,1;24,6;34,2;Panificados
+8001101;Pão de milho;316,62;7,2;10,43;47,96;Panificados
+8001401;Pão integral;247;12,95;3,35;41,29;Panificados
+8001501;Pão não especificado;300;8;3,1;58,6;Panificados
+8001901;Torrada de qualquer pão;377;10,5;3,3;74,6;Panificados
+8002001;Rosca doce;422,97;4,54;20,61;55,53;Panificados
+8002002;Rosquinha doce;443;8,1;12;75,2;Panificados
+8002101;Rosca salgada;245,75;12,83;9,85;25,8;Panificados
+8002106;Rosquinha salgada;432;10,1;14,4;68,7;Panificados
+8002201;Biscoito salgado;432;10,1;14,4;68,7;Panificados
+8002205;Presuntinho biscoito;508,99;8,88;25,4;60,74;Panificados
+8002212;Biscoito de polvilho;436,72;4,46;29,08;38,37;Panificados
+8002225;Bolacha salgada;432;10,1;14,4;68,7;Panificados
+8002227;Chips (salgadinhos);558,86;5,08;35,25;55,41;Panificados
+8002230;Baconzitos;508,99;8,88;25,4;60,74;Panificados
+8002236;Biscoito salgado integral;412,43;11,49;16,07;60,85;Panificados
+8002301;Biscoito doce;443;8,1;12;75,2;Panificados
+8002302;Cavaco chinês;443;8,1;12;75,2;Panificados
+8002305;Sequilho;443;8,1;12;75,2;Panificados
+8002306;Tareço;443;8,1;12;75,2;Panificados
+8002309;Solda;432;10,1;14,4;68,7;Panificados
+8002315;Brevidade;371,22;3,18;14,61;57,71;Panificados
+8002334;Bolacha doce;443;8,1;12;75,2;Panificados
+8002335;Maria maluca (bolacha doce);443;8,1;12;75,2;Panificados
+8002405;Quebraquebra;443;8,1;12;75,2;Panificados
+8002502;Rocambole;339,26;6,32;26,93;18,55;Panificados
+8002503;Cuca de qualquer tipo;355,23;5,15;13,08;55,83;Panificados
+8002601;Bolo de milho;311;4,8;12,4;45,1;Panificados
+8002604;Amidomil (bolinho);311;4,8;12,4;45,1;Panificados
+8002605;Angusor de milho;311;4,8;12,4;45,1;Panificados
+8002609;Grustoli (bolinho doce);421,37;5,55;19,81;55,7;Panificados
+8002701;Bolo de aipim;324;4,4;12,7;47,9;Panificados
+8002702;Bolo de tapioca;324;4,4;12,7;47,9;Panificados
+8002703;Bolo de macaxeira;324;4,4;12,7;47,9;Panificados
+8002704;Bolo de goma;324;4,4;12,7;47,9;Panificados
+8002801;Bolo de batatadoce;324;4,4;12,7;47,9;Panificados
+8002901;Bolo de arroz;324;4,4;12,7;47,9;Panificados
+8003101;Bolo de cará;324;4,4;12,7;47,9;Panificados
+8003501;Tortas doces de qualquer sabor;119,67;2,28;5,38;15,56;Panificados
+8003601;Tortas salgadas de qualquer sabor;249,55;3,87;9,86;38,4;Panificados
+8003701;Sonho;378,79;6,02;18,25;48,08;Panificados
+8003702;Filhos (bolinho de farinha de trigo e ovos);421,37;5,55;19,81;55,7;Panificados
+8003801;Bolo de chocolate;312,8;8,71;6;58,3;Panificados
+8003902;Brioche;366,84;9,04;14,22;49,58;Panificados
+8004001;Bolo de laranja;360,83;4,8;13,15;58,32;Panificados
+8004101;Bolo de coco;317,24;6,33;8,7;54,19;Panificados
+8004201;Bolo de cenoura;344,86;4,17;17,26;44,27;Panificados
+8004601;Bolo de trigo;286,6;6,91;4,24;55,27;Panificados
+8004701;Broa;392;9,8;18,3;47,1;Panificados
+8004801;Biscoito recheado;472;6,4;19,6;70,5;Panificados
+8004807;Waffer (biscoito);430,32;6,25;12,49;74,79;Panificados
+8004809;Alfajores (biscoito);505,21;6,47;22,55;70,85;Panificados
+8004810;Bolacha recheada;472;6,4;19,6;70,5;Panificados
+8004813;Rosca recheada;620,2;5,57;26,28;98,06;Panificados
+8004814;Rosquinha recheada de qualquer sabor;472;6,4;19,6;70,5;Panificados
+8005201;Biscoito não especificado;432;10,1;14,4;68,7;Panificados
+8006101;Crepe;203,18;13,96;12,46;8,27;Panificados
+8006501;Pão diet (de forma industrializado);198;9,1;2,3;43,6;Panificados
+8006601;Pão light (de forma industrializado);198;9,1;2,3;43,6;Panificados
+8006701;Pão de queijo light;363;5,1;24,6;34,2;Panificados
+8006801;Pão integral light;198;9,1;2,3;43,6;Panificados
+8007001;Tortas doces de qualquer sabor light;121,84;2,29;5,4;16,06;Panificados
+8007101;Tortas doces de qualquer sabor diet;99,17;2,25;5,3;10,66;Panificados
+8007302;Filhos (bolinho de farinha de trigo e ovos) light;426,53;6,44;22,95;48,69;Panificados
+8007402;Filhos (bolinho de farinha de trigo e ovos) diet;426,53;6,44;22,95;48,69;Panificados
+8007501;Bolo de chocolate light;299,49;4,59;9,36;52,45;Panificados
+8007601;Bolo de chocolate diet;299,49;4,59;9,36;52,45;Panificados
+8007701;Bolo de laranja light;328,38;4,76;9,48;58,31;Panificados
+8008001;Bolo de coco diet;299,49;4,59;9,36;52,45;Panificados
+8008201;Bolo de cenoura diet;272,74;4,09;9,1;44,26;Panificados
+8008301;Biscoito recheado light;432,96;5,88;13,24;77,8;Panificados
+8008305;Biscoito waffer light;398,63;4,51;6,92;80,66;Panificados
+8008307;Waffer (biscoito) light;398,63;4,51;6,92;80,66;Panificados
+8008309;Alfajores (biscoito) light;432,96;5,88;13,24;77,8;Panificados
+8008310;Bolacha recheada light;432,96;5,88;13,24;77,8;Panificados
+8008401;Biscoito recheado diet;405,28;8,17;20,83;66,82;Panificados
+8008408;Rosquinha recheada de qualquer sabor diet;405,28;8,17;20,83;66,82;Panificados
+8008410;Bolacha recheada diet;405,28;8,17;20,83;66,82;Panificados
+8010001;Pão doce diet;312,25;4,83;6,92;57,97;Panificados
+8010029;Pão de mel diet;446,23;4,38;11,31;85,04;Panificados
+8010034;Panetone diet;355,95;7,45;10,43;58,03;Panificados
+8010101;Biscoito salgado light;452,56;9,67;13,79;72,45;Panificados
+8010125;Bolacha salgada light;452,56;9,67;13,79;72,45;Panificados
+8010127;Chips (salgadinhos) light;407,05;6,53;7,05;81,13;Panificados
+8010401;Biscoito doce light;395,25;6,45;4,84;83,88;Panificados
+8010434;Bolacha doce light;395,25;6,45;4,84;83,88;Panificados
+8010501;Biscoito doce diet;453,92;6,22;21,89;65,74;Panificados
+8010534;Bolacha doce diet;453,92;6,22;21,89;65,74;Panificados
+8010601;Bolo de banana;300,05;3,93;9,07;52,14;Panificados
+8100101;Carneseca;313;26,9;21,9;2,4;Carnes industrializadas
+8100102;Carne de charque;313;26,9;21,9;2,4;Carnes industrializadas
+8100103;Jabá;313;26,9;21,9;2,4;Carnes industrializadas
+8100201;Carne de sol;313;26,9;21,9;2,4;Carnes industrializadas
+8100502;Hambúrguer de carne bovina;214;26,62;11,1;2,4;Carnes industrializadas
+8100802;Copa de porco defumada;248,66;20,53;17,76;0,42;Carnes industrializadas
+8101005;Bacon;541;37,04;41,78;1,43;Carnes industrializadas
+8101101;Hambúrguer de frango;206,14;16,19;9,71;12,64;Carnes industrializadas
+8102101;Salsicha no varejo;321,05;9,72;29,51;3,61;Carnes industrializadas
+8102204;Linguiça (suína, bovina, mista, etc.);396;13,8;36,25;2,7;Carnes industrializadas
+8102207;Linguiça de frango;244;18,2;18,4;2,4;Carnes industrializadas
+8102401;Chouriço;379;14,6;34,5;1,29;Carnes industrializadas
+8102402;Morcela;379;14,6;34,5;1,29;Carnes industrializadas
+8102403;Morcilha;379;14,6;34,5;1,29;Carnes industrializadas
+8102501;Paio;339;19,43;28,36;2,4;Carnes industrializadas
+8102601;Mortadela;307;11,1;27,7;3,2;Carnes industrializadas
+8102701;Salame;336;21,85;25,9;2,4;Carnes industrializadas
+8102702;Salaminho;336;21,85;25,9;2,4;Carnes industrializadas
+8102801;Blanquet de peru;126;17,5;4,84;2,04;Carnes industrializadas
+8102901;Presunto ;226;20,53;15,2;0,42;Carnes industrializadas
+8103001;Hambúrguer de peru;195,96;16,62;8,35;12,64;Carnes industrializadas
+8103101;Hambúrguer não especificado;214;26,62;11,1;2,4;Carnes industrializadas
+8103601;Apresuntado;178;22,62;9,02;2,4;Carnes industrializadas
+8103901;Pururuca de porco;544;61,3;31,3;2,4;Carnes industrializadas
+8103902;Pele de porco preparada (pururuca);544;61,3;31,3;2,4;Carnes industrializadas
+8104001;Patê (fígado, calabresa, frango, presunto, etc.);326;14,1;28,5;2,2;Carnes industrializadas
+8104101;Carne de aves defumada;195,66;30,91;7,07;2,4;Carnes industrializadas
+8104601;Carne salgada não especificada;313;26,9;21,9;2,4;Carnes industrializadas
+8104904;Mini chicken empanado;273,02;16,24;15,63;15,91;Carnes industrializadas
+8105201;Salsicha no varejo light;154;11;10;4,4;Carnes industrializadas
+8105401;Salame light;145,18;14,7;8,94;0,5;Carnes industrializadas
+8105501;Blanquet de peru light;124,12;14,99;3,57;7,11;Carnes industrializadas
+8105701;Hambúrguer não especificado light;190;27,03;8,26;2,4;Carnes industrializadas
+8200101;Refrigerante de cola tradicional;36,87;0,07;0,02;9,53;Bebidas 
+8200102;Cocacola tradicional;36,87;0,07;0,02;9,53;Bebidas 
+8200202;Fanta laranja tradicional;48;0,25;0,02;12,3;Bebidas 
+8200208;Sukita tradicional;48;0,25;0,02;12,3;Bebidas 
+8200301;Refrigerante de guaraná tradicional;39;0,25;0,02;10;Bebidas 
+8200302;Guaraná tradicional;39;0,25;0,02;10;Bebidas 
+8200407;Sprit refrigerante tradicional;40;0,05;0,02;10,14;Bebidas 
+8200505;Fanta uva tradicional;48;0,25;0,02;12,3;Bebidas 
+8201104;Mate tradicional;2,8;0,25;0,02;2,31;Bebidas 
+8201602;Guaraná light;36,87;0,25;0,02;9,53;Bebidas 
+8201802;Tubaína tradicional;39;0,25;0,02;10;Bebidas 
+8201902;Tubaína light;2;0,11;0,03;0,29;Bebidas 
+8202001;Caldo de cana;73,58;0,25;0,05;19,97;Bebidas 
+8202002;Garapá;73,58;0,25;0,05;19,97;Bebidas 
+8202101;Água de coco;19,28;0,73;0,2;3,76;Bebidas 
+8202402;Qsuco;15,28;0,25;0;3,91;Bebidas 
+8202403;Qrefresko;15,28;0,25;0;3,91;Bebidas 
+8202602;Nescafé;241;12,2;0,5;75,4;Bebidas 
+8202803;Ervamate;2,8;0,25;0,02;2,31;Bebidas 
+8202804;Chimarrão;2,8;0,25;0,02;2,31;Bebidas 
+8202805;Tereré;2,8;0,25;0,02;2,31;Bebidas 
+8203401;Levedo de cerveja;170;16,2;1,3;28,1;Bebidas 
+8203501;Refrigerante não especificado;36,87;0,07;0,02;9,53;Bebidas 
+8203603;Cevada em pó;352;9,91;1,16;77,72;Bebidas 
+8204503;Chocomilk ;83,32;3,18;3,4;10,38;Bebidas 
+8204902;Água tônica tradicional;40,02;0,05;0,02;10,14;Bebidas 
+8205201;Chá diet (preto, camomila, ervacidreira, capimlimão, etc.) ;2,52;0,01;0,02;0,67;Bebidas 
+8205402;Paraguai refrigerante tradicional;39;0,25;0,02;10;Bebidas 
+8205803;Gatorade;27,01;0,25;0,1;6,76;Bebidas 
+8205901;Bebida energética;45,35;0,25;0,08;11,03;Bebidas 
+8206301;Chá (preto, camomila, ervacidreira, capimlimão, etc.);1;0,25;0,02;0,3;Bebidas 
+8206402;Café solúvel capuccino ;27,71;0,26;0,84;5,17;Bebidas 
+8207401;Refrigerante de guaraná diet;36,87;0,25;0,02;9,53;Bebidas 
+8207402;Guaraná diet;36,87;0,25;0,02;9,53;Bebidas 
+8207601;Refrigerante de limão diet;36,87;0,1;0,02;9,53;Bebidas 
+8208104;Mate light;2,8;0,25;0,02;2,31;Bebidas 
+8211002;Qsuco light;15,28;0,25;0;3,91;Bebidas 
+8211003;Qrefresko light;15,28;0,25;0;3,91;Bebidas 
+8211102;Qsuco diet;15,28;0,25;0;3,91;Bebidas 
+8212902;Água tônica diet;40,02;0,05;0,02;10,14;Bebidas 
+8212906;Refrigerante de quinino dietético;40,02;0,05;0,02;10,14;Bebidas 
+8213003;Chá mate orgânico;2,8;0,25;0,02;2,31;Bebidas 
+8213004;Chimarrão orgânico;2,8;0,25;0,02;2,31;Bebidas 
+8213601;Suco de clorofila;1,87;0,24;0,02;0,31;Bebidas 
+8273902;Café com farinha;181;0,86;0,16;44,19;Bebidas 
+8400101;Azeite de oliva;887,81;10,65;100,43;0;Óleos e gorduras
+8400301;Óleo de soja;879,73;10,65;99,52;0;Óleos e gorduras
+8401801;Banha suína;902;10,65;100;0;Óleos e gorduras
+8403001;Banha bovina;680;10,65;70,33;0;Óleos e gorduras
+8403201;Óleo não especificado;879,73;10,65;99,52;0;Óleos e gorduras
+8403501;Óleo de dendê;857,84;10,65;99,52;0;Óleos e gorduras
+8500201;Salgadinho;274,6;13,41;16,88;16,54;Miscelâneas
+8500202;Pastel (queijo, carne, palmito, etc.);319,81;10,38;15,68;33,51;Miscelâneas
+8500203;Croquete ;274,6;13,41;16,88;16,54;Miscelâneas
+8500205;Coxinha ;274,6;13,41;16,88;16,54;Miscelâneas
+8500206;Empada (queijo, carne, camarão, etc.);153,96;7,89;7,91;12,47;Miscelâneas
+8500207;Rissole  (queijo, carne, camarão, etc.);274,6;13,41;16,88;16,54;Miscelâneas
+8500209;Acarajé;289;8,3;19,9;19,1;Miscelâneas
+8500210;Torresmo ;544;61,3;31,3;14,33;Miscelâneas
+8500211;Quibe ;274,6;13,41;16,88;16,54;Miscelâneas
+8500212;Abará (Bahia);289;8,3;19,9;19,1;Miscelâneas
+8500213;Paçoca de carne de sol;354;13,44;13,43;43,95;Miscelâneas
+8500215;Angu frito;74,6;1,45;1,78;13;Miscelâneas
+8500217;Angu de milho ;60,58;1,44;0,2;13;Miscelâneas
+8500218;Polenta ;74,6;1,45;1,78;13;Miscelâneas
+8500222;Esfirra ;359,42;9,76;18,88;37,51;Miscelâneas
+8500223;Esfirra de carne ;346,45;11,9;21,38;26,2;Miscelâneas
+8500224;Esfirra de queijo ;359,42;9,76;18,88;37,51;Miscelâneas
+8500225;Esfirra de ricota ;320,39;7,54;15,25;38,09;Miscelâneas
+8500226;Esfirra de frango ;222,39;9,47;12,71;17,32;Miscelâneas
+8500227;Enroladinho ;274,6;13,41;16,88;16,54;Miscelâneas
+8500228;Bolinho de aipim;212,64;6,28;13,11;18,51;Miscelâneas
+8500232;Bolinho de bacalhau;214,01;16,7;12,75;7,69;Miscelâneas
+8500302;Cachorroquente ;272,47;8,73;15,22;24,8;Miscelâneas
+8500303;Hambúrguer (sanduíche);267,16;13,08;9,22;32,36;Miscelâneas
+8500304;Cheeseburger ;279,85;14,15;11,81;28,74;Miscelâneas
+8500305;Eggsburger ;269,44;13,28;16,1;17,42;Miscelâneas
+8500307;Bauru ;229,47;13,67;13;13,97;Miscelâneas
+8500308;Americano;236,68;10,05;14,22;16,85;Miscelâneas
+8500313;Mistoquente ou frio ;265,42;16,29;13,78;18,3;Miscelâneas
+8500315;Sanduíche de queijo prato;329,29;12,22;17,24;31,09;Miscelâneas
+8500316;Sanduíche de salame;282,99;8,97;13,74;30,27;Miscelâneas
+8500317;Sanduíche de presunto;230,33;10,97;12,15;18,73;Miscelâneas
+8500318;Sanduíche de queijo prato com presunto;265,42;16,29;13,78;18,3;Miscelâneas
+8500319;Sanduíche de mortadela;315,97;8,6;16,56;32,81;Miscelâneas
+8500320;Sanduíche de queijo minas;329,29;12,22;17,24;31,09;Miscelâneas
+8500321;Cheese egg;279,85;14,15;11,81;28,74;Miscelâneas
+8500322;Cheese tudo;279,85;14,15;11,81;28,74;Miscelâneas
+8500323;Sanduíche natural;245,58;11,21;10,84;25,58;Miscelâneas
+8500401;Suco ;41,83;0,59;0,14;9,81;Miscelâneas
+8500402;Suco de abacaxi ;53,21;0,36;0,12;12,92;Miscelâneas
+8500403;Suco de acerola ;23,06;0,4;0,3;4,81;Miscelâneas
+8500404;Suco de beterraba ;30,77;0,81;0,12;7,11;Miscelâneas
+8500405;Suco de cupuaçu ;24,5;0,6;0,5;5,2;Miscelâneas
+8500406;Suco de goiaba ;62,28;0,37;0,14;15,62;Miscelâneas
+8500407;Suco de laranja ;41,83;0,59;0,14;9,81;Miscelâneas
+8500408;Suco de laranja com banana ;56,8;0,76;0,2;13,84;Miscelâneas
+8500409;Suco de laranja e beterraba ;30,77;0,81;0,12;7,11;Miscelâneas
+8500410;Suco de laranja e cenoura ;30,77;0,81;0,12;7,11;Miscelâneas
+8500411;Suco de laranja cenoura e beterraba;30,77;0,81;0,12;7,11;Miscelâneas
+8500412;Suco de mamão ;57,13;0,17;0,15;14,54;Miscelâneas
+8500413;Suco de manga ;50,86;0,11;0,06;13,08;Miscelâneas
+8500414;Suco de maracujá ;60,14;0,67;0,18;14,48;Miscelâneas
+8500415;Suco de melão ;31,79;0,65;0,16;8;Miscelâneas
+8500416;Suco de morango ;59,21;0,57;0,1;14,51;Miscelâneas
+8500417;Suco de pêssego ;53,99;0,27;0,02;13,92;Miscelâneas
+8500418;Suco de pêssego em calda ;53,99;0,27;0,02;13,92;Miscelâneas
+8500501;Vitamina ;92,78;2,47;2,31;16,39;Miscelâneas
+8500503;Vitamina de banana ;92,78;2,47;2,31;16,39;Miscelâneas
+8500504;Vitamina de banana com aveia ;108,46;3,06;2,54;19,2;Miscelâneas
+8500505;Vitamina de mamão ;80,59;2,42;2,34;12,95;Miscelâneas
+8500506;Vitamina de abacate ;100,19;2,74;4,64;12,8;Miscelâneas
+8500507;Vitamina de morango ;74,61;1,96;1,83;13,27;Miscelâneas
+8500508;Vitamina mista;83,16;1,81;1,65;16,2;Miscelâneas
+8500509;Vitamina de maçã;82,99;2,28;2,26;13,98;Miscelâneas
+8500601;Refresco ;46,81;5,33;14,33;11,92;Miscelâneas
+8500602;Refresco de caju ;46,81;5,33;14,33;11,92;Miscelâneas
+8500603;Refresco de groselha ;46,81;5,33;14,33;11,92;Miscelâneas
+8500604;Refresco de laranja ;46,81;5,33;14,33;11,92;Miscelâneas
+8500605;Refresco de maracujá ;46,81;5,33;14,33;11,92;Miscelâneas
+8500606;Refresco de limão;46,81;5,33;14,33;11,92;Miscelâneas
+8500801;Salada ou verdura cozida, exceto de fruta;26;2,11;0,36;4,91;Miscelâneas
+8500802;Salada de maionese ;209,79;2,71;16,83;12,65;Miscelâneas
+8500903;Pizza ;281,2;14,6;11,35;29,82;Miscelâneas
+8500904;Lasanha pronta light ;158,63;10,78;7,31;12,34;Miscelâneas
+8500905;Nhoque ;190,54;9,31;13,18;8,49;Miscelâneas
+8500906;Caneloni;120,86;5,94;6,8;9,22;Miscelâneas
+8500907;Capeleti ;95,24;5,53;2,59;12,6;Miscelâneas
+8500909;Ravioli ;95,24;5,53;2,59;12,6;Miscelâneas
+8500910;Calzone ;245,75;12,83;9,85;25,8;Miscelâneas
+8500913;Panqueca;203,18;13,96;12,46;8,27;Miscelâneas
+8500914;Pizza calabreza;284,72;13,74;12,21;29,51;Miscelâneas
+8500915;Pizza muçarela;281,2;14,6;11,35;29,82;Miscelâneas
+8500916;Pizza presunto;284,72;13,74;12,21;29,51;Miscelâneas
+8500917;Pizza portuguesa;247,49;11,75;12,23;22,4;Miscelâneas
+8500919;Macarronada;120,59;6,22;2,79;17,42;Miscelâneas
+8501004;Galeto ;261,66;27,3;16,16;14,33;Miscelâneas
+8501104;Costela;365;22,6;29,79;14,33;Miscelâneas
+8501202;Pipoca doce ou salgada ;468,15;6,59;23,28;62,51;Miscelâneas
+8501302;Café ;1;0,12;0,02;0,47;Miscelâneas
+8501303;Café com leite ;31,44;1,72;1,69;2,57;Miscelâneas
+8501304;Café tipo expresso;2,45;0,12;0,01;0,77;Miscelâneas
+8501305;Café tipo capuccino;27,71;0,26;0,84;5,17;Miscelâneas
+8501402;Milho cozido ;160,14;3,32;7,18;25,11;Miscelâneas
+8501502;Batata palito;263,5;2,87;13,64;33,6;Miscelâneas
+8501503;Batata palha;545,7;5,24;35,24;54,52;Miscelâneas
+8501902;Mungunzá ;146;4;3,9;24,4;Miscelâneas
+8501903;Canjica ;146;4;3,9;24,4;Miscelâneas
+8501904;Curau;78,24;2,42;3,06;10,46;Miscelâneas
+8502201;Farofa ;406;2,1;9,1;80,3;Miscelâneas
+8502301;Mingau (fubá,  aveia, farinha, etc.) ;78,24;2,42;3,06;10,46;Miscelâneas
+8502401;Tacacá ;16;2;0,6;0,4;Miscelâneas
+8502501;Bolinho de coco ;297,32;6,71;5,8;54,89;Miscelâneas
+8502701;Risoto;113,02;6,66;1,99;17,16;Miscelâneas
+8502801;Vatapá ;226,07;13,77;15,61;9,28;Miscelâneas
+8502901;Farofa pronta ;406;2,1;9,1;80,3;Miscelâneas
+8503202;Caldo de carne ;7,02;1,36;14,33;0,45;Miscelâneas
+8503203;Caldodefeijão ;75,5;4,78;1,77;10,33;Miscelâneas
+8503204;Caldo de mocotó ;7,02;1,36;14,33;0,45;Miscelâneas
+8503501;Baião de dois;136;6,2;3,2;20,4;Miscelâneas
+8503801;Churrasco;204;30,67;9;14,33;Miscelâneas
+8504201;Sushi;146,78;5,56;0,45;29,19;Miscelâneas
+8504401;Salada de frutas ;51,24;0,62;0,14;13,31;Miscelâneas
+8504501;Sopa (legumes, carne, etc.);28,78;1,63;0,78;3,81;Miscelâneas
+8504801;Salpicão ;202,85;14,26;14,41;3,93;Miscelâneas
+8505201;Charuto de repolho;84,91;9,63;1,3;8,75;Miscelâneas
+8505401;Arroz à grega ;92,01;2,17;1,69;17,47;Miscelâneas
+8505501;Arrumadinho;198,86;9,33;8,47;21,73;Miscelâneas
+8505601;Bobó de camarão ;72,1;2,63;4,42;5,48;Miscelâneas
+8505801;Cuscuz paulista ;142;2,6;4,6;22,5;Miscelâneas
+8506001;Farofa de banana;309,55;1,66;11,17;52,89;Miscelâneas
+8506101;Feijãotropeiro ;198,86;9,33;8,47;21,73;Miscelâneas
+8506201;Galinha com arroz ;143,5;4,47;3,07;23,93;Miscelâneas
+8506301;Galinhada ;143,5;4,47;3,07;23,93;Miscelâneas
+8506401;Moqueca baiana ;130,13;13,62;7,54;1,66;Miscelâneas
+8506501;Omelete ;241,62;11,04;21,26;0,98;Miscelâneas
+8506601;Pirão ;119,65;8,05;5,76;8,9;Miscelâneas
+8506701;Quibebe ;36,39;0,72;1,92;4,9;Miscelâneas
+8506801;Quiche;282,73;10,34;20,44;13,85;Miscelâneas
+8506901;Suflê ;126,1;5,11;9,17;6,4;Miscelâneas
+8507001;Tutu ;123,76;5,41;1,64;22,34;Miscelâneas
+8507101;Moqueca capixaba ;100,52;14,34;3,66;1,75;Miscelâneas
+8507201;Maniçoba ;181,85;15,09;12,16;2,92;Miscelâneas
+8507301;Caldo verde ;94,92;3,53;2,9;14,19;Miscelâneas
+8507401;Arroz de cuxá;102,74;2,38;0,95;20,92;Miscelâneas
+8507501;Angu à baiana;125,34;9,01;5,75;8,87;Miscelâneas
+8507601;Chocolate;535;7,65;29,66;59,4;Miscelâneas
+8507701;Gemada ;134,79;3,8;7,47;13,52;Miscelâneas
+8507801;Açaí com granola;110;0,7;3,7;21,5;Miscelâneas
+8507901;Suco orgânico ;41,83;0,59;0,14;9,81;Miscelâneas
+8507902;Suco de abacaxi orgânico ;53,21;0,36;0,12;12,92;Miscelâneas
+8507903;Suco de acerola orgânico ;23,06;0,4;0,3;4,81;Miscelâneas
+8507906;Suco de goiaba orgânico ;62,28;0,37;0,14;15,62;Miscelâneas
+8507907;Suco de laranja orgânico ;41,83;0,59;0,14;9,81;Miscelâneas
+8507911;Suco de laranja cenoura e beterraba orgânico ;30,77;0,81;0,12;7,11;Miscelâneas
+8507913;Suco de manga orgânico ;50,86;0,11;0,06;13,08;Miscelâneas
+8507914;Suco de maracujá orgânico ;60,14;0,67;0,18;14,48;Miscelâneas
+8507916;Suco de morango orgânico ;59,21;0,57;0,1;14,51;Miscelâneas
+8507917;Suco de pêssego orgânico ;53,99;0,27;0,02;13,92;Miscelâneas
+8507918;Suco de pêssego em calda orgânico ;53,99;0,27;0,02;13,92;Miscelâneas
+8508003;Pizza pronta light ;255,57;14,6;8,45;29,82;Miscelâneas
+8508004;Lasanha pronta light ;144,33;10,93;5,67;12,34;Miscelâneas
+8508012;Macarrão pronto light ;189,86;5,65;7,18;25,54;Miscelâneas
+8508017;Pizza portuguesa light;229,62;11,75;10,21;22,4;Miscelâneas
+8508101;Farofa pronta light em pacote;406;2,1;9,1;80,3;Miscelâneas
+8508301;Vaca atolada;245;11,6;15,05;15,05;Miscelâneas
+8508401;Salada ou verdura crua, exceto de fruta;18;0,88;0,2;3,92;Miscelâneas
+8508403;Outros legumes cozidos;60,5;1,24;0,14;14,12;Miscelâneas
+8509801;Café da manha;31,44;1,72;1,69;2,57;Miscelâneas
+8570107;Arroz com feijão;116,51;4,17;1,5;21,42;Miscelâneas
+8570328;Pão com manteiga;369,5;6,81;16,1;48,84;Miscelâneas
+8570330;Pão com ovo;261,3;10,84;10,38;29,91;Miscelâneas
+8571110;Carne com batata, inhame, batatabaroa ou aipim ;188,2;12,97;10,5;10,01;Miscelâneas
+8571112;Frango com batata, inhame batatabaroa ou aipim;153,7;16,31;5,04;10,01;Miscelâneas
+8578404;Abobora com quiabo;21;1,3;0,14;4,71;Miscelâneas
+8579002;Arroz carreteiro;154;10,8;7,1;11,6;Miscelâneas
+8579003;Maria izabel;154;10,8;7,1;11,6;Miscelâneas
+8579004;Arroz de leite;142,42;2,98;4,17;22,62;Miscelâneas
+8579005;Arroz com mandioca;130,31;1,55;0,75;28,94;Miscelâneas
+8579006;Arroz com ovo;179,11;8,09;9,43;14,5;Miscelâneas
+8800109;Palma ;41,95;1,35;3,1;3,28;Miscelâneas

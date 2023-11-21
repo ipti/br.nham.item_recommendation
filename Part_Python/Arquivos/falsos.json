@@ -1,0 +1,402 @@
+[
+    {
+        "grupo": "arroz",
+        "nome": "Item 1",
+        "proteina": 20,
+        "carboidrato": 30,
+        "lipidio": 10,
+        "code": 1
+    },
+    {
+        "grupo": "arroz",
+        "nome": "Item 2",
+        "proteina": 15,
+        "carboidrato": 25,
+        "lipidio": 5,
+        "code": 2
+    },
+    {
+        "grupo": "macarrão",
+        "nome": "Item 3",
+        "proteina": 30,
+        "carboidrato": 20,
+        "lipidio": 15,
+        "code": 3
+    },
+    {
+        "grupo": "feijão",
+        "nome": "Item 4",
+        "proteina": 25,
+        "carboidrato": 40,
+        "lipidio": 5,
+        "code": 4
+    },
+    {
+        "grupo": "feijão",
+        "nome": "Item 5",
+        "proteina": 22,
+        "carboidrato": 38,
+        "lipidio": 6,
+        "code": 5
+    },
+    {
+        "grupo": "macarrão",
+        "nome": "Item 6",
+        "proteina": 35,
+        "carboidrato": 18,
+        "lipidio": 10,
+        "code": 6
+    },
+    {
+        "grupo": "arroz",
+        "nome": "Item 7",
+        "proteina": 18,
+        "carboidrato": 27,
+        "lipidio": 8,
+        "code": 7
+    },
+    {
+        "grupo": "feijão",
+        "nome": "Item 8",
+        "proteina": 27,
+        "carboidrato": 42,
+        "lipidio": 7,
+        "code": 8
+    },
+    {
+        "grupo": "massa",
+        "nome": "Item 9",
+        "proteina": 30,
+        "carboidrato": 23,
+        "lipidio": 11,
+        "code": 9
+    },
+    {
+        "grupo": "massa",
+        "nome": "Item 10",
+        "proteina": 28,
+        "carboidrato": 20,
+        "lipidio": 12,
+        "code": 10
+    },
+    {
+        "grupo": "massa",
+        "nome": "Item 11",
+        "proteina": 29,
+        "carboidrato": 22,
+        "lipidio": 10,
+        "code": 11
+    },
+    {
+        "grupo": "feijão",
+        "nome": "Item 12",
+        "proteina": 24,
+        "carboidrato": 41,
+        "lipidio": 6,
+        "code": 12
+    },
+    {
+        "grupo": "arroz",
+        "nome": "Item 13",
+        "proteina": 19,
+        "carboidrato": 29,
+        "lipidio": 9,
+        "code": 13
+    },
+    {
+        "grupo": "macarrão",
+        "nome": "Item 14",
+        "proteina": 33,
+        "carboidrato": 19,
+        "lipidio": 14,
+        "code": 14
+    },
+    {
+        "grupo": "massa",
+        "nome": "Item 15",
+        "proteina": 32,
+        "carboidrato": 24,
+        "lipidio": 13,
+        "code": 15
+    },
+    {
+        "grupo": "feijão",
+        "nome": "Item 16",
+        "proteina": 26,
+        "carboidrato": 43,
+        "lipidio": 5,
+        "code": 16
+    },
+    {
+        "grupo": "macarrão",
+        "nome": "Item 17",
+        "proteina": 31,
+        "carboidrato": 21,
+        "lipidio": 14,
+        "code": 17
+    },
+    {
+        "grupo": "arroz",
+        "nome": "Item 18",
+        "proteina": 17,
+        "carboidrato": 28,
+        "lipidio": 7,
+        "code": 18
+    },
+    {
+        "grupo": "massa",
+        "nome": "Item 19",
+        "proteina": 34,
+        "carboidrato": 22,
+        "lipidio": 12,
+        "code": 19
+    },
+    {
+        "grupo": "massa",
+        "nome": "Item 20",
+        "proteina": 31,
+        "carboidrato": 21,
+        "lipidio": 13,
+        "code": 20
+    },
+    {
+        "grupo": "feijão",
+        "nome": "Item 21",
+        "proteina": 25,
+        "carboidrato": 40,
+        "lipidio": 7,
+        "code": 21
+    },
+    {
+        "grupo": "macarrão",
+        "nome": "Item 22",
+        "proteina": 32,
+        "carboidrato": 20,
+        "lipidio": 15,
+        "code": 22
+    },
+    {
+        "grupo": "arroz",
+        "nome": "Item 23",
+        "proteina": 19,
+        "carboidrato": 30,
+        "lipidio": 8,
+        "code": 23
+    },
+    {
+        "grupo": "feijão",
+        "nome": "Item 24",
+        "proteina": 28,
+        "carboidrato": 39,
+        "lipidio": 7,
+        "code": 24
+    },
+    {
+        "grupo": "massa",
+        "nome": "Item 25",
+        "proteina": 29,
+        "carboidrato": 23,
+        "lipidio": 10,
+        "code": 25
+    },
+    {
+        "grupo": "massa",
+        "nome": "Item 26",
+        "proteina": 27,
+        "carboidrato": 22,
+        "lipidio": 11,
+        "code": 26
+    },
+    {
+        "grupo": "massa",
+        "nome": "Item 27",
+        "proteina": 28,
+        "carboidrato": 21,
+        "lipidio": 12,
+        "code": 27
+    },
+    {
+        "grupo": "feijão",
+        "nome": "Item 28",
+        "proteina": 23,
+        "carboidrato": 38,
+        "lipidio": 6,
+        "code": 28
+    },
+    {
+        "grupo": "arroz",
+        "nome": "Item 29",
+        "proteina": 18,
+        "carboidrato": 29,
+        "lipidio": 9,
+        "code": 29
+    },
+    {
+        "grupo": "macarrão",
+        "nome": "Item 30",
+        "proteina": 32,
+        "carboidrato": 18,
+        "lipidio": 14,
+        "code": 30
+    },
+    {
+        "grupo": "massa",
+        "nome": "Item 31",
+        "proteina": 30,
+        "carboidrato": 24,
+        "lipidio": 13,
+        "code": 31
+    },
+    {
+        "grupo": "feijão",
+        "nome": "Item 32",
+        "proteina": 24,
+        "carboidrato": 42,
+        "lipidio": 6,
+        "code": 32
+    },
+    {
+        "grupo": "arroz",
+        "nome": "Item 33",
+        "proteina": 19,
+        "carboidrato": 29,
+        "lipidio": 9,
+        "code": 33
+    },
+    {
+        "grupo": "macarrão",
+        "nome": "Item 34",
+        "proteina": 33,
+        "carboidrato": 19,
+        "lipidio": 14,
+        "code": 34
+    },
+    {
+        "grupo": "massa",
+        "nome": "Item 35",
+        "proteina": 32,
+        "carboidrato": 24,
+        "lipidio": 13,
+        "code": 35
+    },
+    {
+        "grupo": "feijão",
+        "nome": "Item 36",
+        "proteina": 26,
+        "carboidrato": 43,
+        "lipidio": 5,
+        "code": 36
+    },
+    {
+        "grupo": "macarrão",
+        "nome": "Item 37",
+        "proteina": 31,
+        "carboidrato": 21,
+        "lipidio": 14,
+        "code": 37
+    },
+    {
+        "grupo": "arroz",
+        "nome": "Item 38",
+        "proteina": 17,
+        "carboidrato": 28,
+        "lipidio": 7,
+        "code": 38
+    },
+    {
+        "grupo": "massa",
+        "nome": "Item 39",
+        "proteina": 34,
+        "carboidrato": 22,
+        "lipidio": 12,
+        "code": 39
+    },
+    {
+        "grupo": "massa",
+        "nome": "Item 40",
+        "proteina": 31,
+        "carboidrato": 21,
+        "lipidio": 13,
+        "code": 40
+    },
+    {
+        "grupo": "feijão",
+        "nome": "Item 41",
+        "proteina": 25,
+        "carboidrato": 40,
+        "lipidio": 7,
+        "code": 41
+    },
+    {
+        "grupo": "macarrão",
+        "nome": "Item 42",
+        "proteina": 32,
+        "carboidrato": 20,
+        "lipidio": 15,
+        "code": 42
+    },
+    {
+        "grupo": "arroz",
+        "nome": "Item 43",
+        "proteina": 19,
+        "carboidrato": 30,
+        "lipidio": 8,
+        "code": 43
+    },
+    {
+        "grupo": "feijão",
+        "nome": "Item 44",
+        "proteina": 28,
+        "carboidrato": 39,
+        "lipidio": 7,
+        "code": 44
+    },
+    {
+        "grupo": "massa",
+        "nome": "Item 45",
+        "proteina": 29,
+        "carboidrato": 23,
+        "lipidio": 10,
+        "code": 45
+    },
+    {
+        "grupo": "massa",
+        "nome": "Item 46",
+        "proteina": 27,
+        "carboidrato": 22,
+        "lipidio": 11,
+        "code": 46
+    },
+    {
+        "grupo": "massa",
+        "nome": "Item 47",
+        "proteina": 28,
+        "carboidrato": 21,
+        "lipidio": 12,
+        "code": 47
+    },
+    {
+        "grupo": "feijão",
+        "nome": "Item 48",
+        "proteina": 23,
+        "carboidrato": 38,
+        "lipidio": 6,
+        "code": 48
+    },
+    {
+        "grupo": "arroz",
+        "nome": "Item 49",
+        "proteina": 18,
+        "carboidrato": 29,
+        "lipidio": 9,
+        "code": 49
+    },
+    {
+        "grupo": "macarrão",
+        "nome": "Item 50",
+        "proteina": 32,
+        "carboidrato": 18,
+        "lipidio": 14,
+        "code": 50
+    }
+]

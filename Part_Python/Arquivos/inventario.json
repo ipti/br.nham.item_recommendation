@@ -1,0 +1,82 @@
+[
+    {
+        "nome": "Item 1",
+        "grupo": "arroz",
+        "code": 1
+    },
+    {
+        "nome": "Item 4",
+        "grupo": "feijão",
+        "code": 4
+    },
+    {
+        "nome": "Item 5",
+        "grupo": "feijão",
+        "code": 5
+    },
+    {
+        "nome": "Item 9",
+        "grupo": "massa",
+        "code": 9
+    },
+    {
+        "nome": "Item 13",
+        "grupo": "arroz",
+        "code": 13
+    },
+    {
+        "nome": "Item 23",
+        "grupo": "arroz",
+        "code": 23
+    },
+    {
+        "nome": "Item 24",
+        "grupo": "feijão",
+        "code": 24
+    },
+    {
+        "nome": "Item 25",
+        "grupo": "massa",
+        "code": 25
+    },
+    {
+        "nome": "Item 28",
+        "grupo": "feijão",
+        "code": 28
+    },
+    {
+        "nome": "Item 31",
+        "grupo": "massa",
+        "code": 31
+    },
+    {
+        "nome": "Item 34",
+        "grupo": "macarrão",
+        "code": 34
+    },
+    {
+        "nome": "Item 35",
+        "grupo": "massa",
+        "code": 35
+    },
+    {
+        "nome": "Item 37",
+        "grupo": "macarrão",
+        "code": 37
+    },
+    {
+        "nome": "Item 42",
+        "grupo": "macarrão",
+        "code": 42
+    },
+    {
+        "nome": "Item 43",
+        "grupo": "arroz",
+        "code": 43
+    },
+    {
+        "nome": "Item 50",
+        "grupo": "macarrão",
+        "code": 50
+    }
+]

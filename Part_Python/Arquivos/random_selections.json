@@ -1,0 +1,767 @@
+[
+    {
+        "code": 6302801,
+        "nome": "Grão de bico",
+        "caloria": 188.5,
+        "proteina": 8.9,
+        "lipidio": 5.4,
+        "carboidrato": 27.42,
+        "grupo": "Cereais e leguminosas"
+    },
+    {
+        "code": 6303001,
+        "nome": "Soja em Grão",
+        "caloria": 196.3,
+        "proteina": 16.6,
+        "lipidio": 11.6,
+        "carboidrato": 9.93,
+        "grupo": "Cereais e leguminosas"
+    },
+    {
+        "code": 6300701,
+        "nome": "Milho",
+        "caloria": 160.1,
+        "proteina": 3.3,
+        "lipidio": 7.2,
+        "carboidrato": 25.11,
+        "grupo": "Cereais e leguminosas"
+    },
+    {
+        "code": 6300201,
+        "nome": "Arroz integral",
+        "caloria": 130.9,
+        "proteina": 2.6,
+        "lipidio": 2.0,
+        "carboidrato": 25.56,
+        "grupo": "Cereais e leguminosas"
+    },
+    {
+        "code": 6302001,
+        "nome": "Semente de linhaça",
+        "caloria": 534.0,
+        "proteina": 18.3,
+        "lipidio": 42.2,
+        "carboidrato": 28.88,
+        "grupo": "Cereais e leguminosas"
+    },
+    {
+        "code": 6401001,
+        "nome": "Rabanete",
+        "caloria": 16.0,
+        "proteina": 0.68,
+        "lipidio": 0.1,
+        "carboidrato": 3.4,
+        "grupo": "Hortaliças tuberosas"
+    },
+    {
+        "code": 6400401,
+        "nome": "Batata doce",
+        "caloria": 76.0,
+        "proteina": 1.37,
+        "lipidio": 0.14,
+        "carboidrato": 17.72,
+        "grupo": "Hortaliças tuberosas"
+    },
+    {
+        "code": 6400713,
+        "nome": "Inhame",
+        "caloria": 100.0,
+        "proteina": 1.71,
+        "lipidio": 0.12,
+        "carboidrato": 23.4,
+        "grupo": "Hortaliças tuberosas"
+    },
+    {
+        "code": 6401801,
+        "nome": "Batata inglesa",
+        "caloria": 263.5,
+        "proteina": 2.87,
+        "lipidio": 13.64,
+        "carboidrato": 33.6,
+        "grupo": "Hortaliças tuberosas"
+    },
+    {
+        "code": 6400610,
+        "nome": "Macaxeira",
+        "caloria": 125.0,
+        "proteina": 0.6,
+        "lipidio": 0.3,
+        "carboidrato": 30.1,
+        "grupo": "Hortaliças tuberosas"
+    },
+    {
+        "code": 6506401,
+        "nome": "Proteína de soja orgânica",
+        "caloria": 142.37,
+        "proteina": 18.51,
+        "lipidio": 5.32,
+        "carboidrato": 5.8,
+        "grupo": "Farinhas e massas"
+    },
+    {
+        "code": 6500702,
+        "nome": "Amido de milho",
+        "caloria": 78.24,
+        "proteina": 2.42,
+        "lipidio": 3.06,
+        "carboidrato": 10.46,
+        "grupo": "Farinhas e massas"
+    },
+    {
+        "code": 6500101,
+        "nome": "Creme de arroz",
+        "caloria": 148.32,
+        "proteina": 3.8,
+        "lipidio": 3.3,
+        "carboidrato": 26.07,
+        "grupo": "Farinhas e massas"
+    },
+    {
+        "code": 6503501,
+        "nome": "Puré de batata",
+        "caloria": 115.16,
+        "proteina": 1.81,
+        "lipidio": 4.36,
+        "carboidrato": 17.76,
+        "grupo": "Farinhas e massas"
+    },
+    {
+        "code": 6501510,
+        "nome": "Farinha de tapioca",
+        "caloria": 331.0,
+        "proteina": 0.5,
+        "lipidio": 0.3,
+        "carboidrato": 81.1,
+        "grupo": "Farinhas e massas"
+    },
+    {
+        "code": 6601904,
+        "nome": "Bacabuçu",
+        "caloria": 212.0,
+        "proteina": 3.12,
+        "lipidio": 19.8,
+        "carboidrato": 6.6,
+        "grupo": "Cocos, castanhas e nozes"
+    },
+    {
+        "code": 6602301,
+        "nome": "Buriti",
+        "caloria": 145.0,
+        "proteina": 1.8,
+        "lipidio": 8.1,
+        "carboidrato": 10.2,
+        "grupo": "Cocos, castanhas e nozes"
+    },
+    {
+        "code": 6602401,
+        "nome": "Coco",
+        "caloria": 354.0,
+        "proteina": 3.33,
+        "lipidio": 33.49,
+        "carboidrato": 15.23,
+        "grupo": "Cocos, castanhas e nozes"
+    },
+    {
+        "code": 6600301,
+        "nome": "Castanha portuguesa",
+        "caloria": 131.0,
+        "proteina": 2.0,
+        "lipidio": 1.38,
+        "carboidrato": 27.76,
+        "grupo": "Cocos, castanhas e nozes"
+    },
+    {
+        "code": 6600501,
+        "nome": "Amêndoa",
+        "caloria": 578.0,
+        "proteina": 21.26,
+        "lipidio": 50.64,
+        "carboidrato": 19.74,
+        "grupo": "Cocos, castanhas e nozes"
+    },
+    {
+        "code": 6702604,
+        "nome": "Salsão (aipo)",
+        "caloria": 18.0,
+        "proteina": 0.83,
+        "lipidio": 0.16,
+        "carboidrato": 4.0,
+        "grupo": "Hortaliças e frutosas"
+    },
+    {
+        "code": 6701901,
+        "nome": "Caruru",
+        "caloria": 26.0,
+        "proteina": 2.11,
+        "lipidio": 0.36,
+        "carboidrato": 4.91,
+        "grupo": "Hortaliças e frutosas"
+    },
+    {
+        "code": 6702105,
+        "nome": "Jambu",
+        "caloria": 32.0,
+        "proteina": 1.9,
+        "lipidio": 0.3,
+        "carboidrato": 7.2,
+        "grupo": "Hortaliças e frutosas"
+    },
+    {
+        "code": 6703101,
+        "nome": "Broto de Feijão",
+        "caloria": 53.38,
+        "proteina": 2.03,
+        "lipidio": 3.75,
+        "carboidrato": 4.19,
+        "grupo": "Hortaliças e frutosas"
+    },
+    {
+        "code": 6703701,
+        "nome": "Abobrinha",
+        "caloria": 16.0,
+        "proteina": 1.21,
+        "lipidio": 0.18,
+        "carboidrato": 3.35,
+        "grupo": "Hortaliças e frutosas"
+    },
+    {
+        "code": 6806301,
+        "nome": "Cacau",
+        "caloria": 74.0,
+        "proteina": 1.0,
+        "lipidio": 0.1,
+        "carboidrato": 19.4,
+        "grupo": "Frutas"
+    },
+    {
+        "code": 6804301,
+        "nome": "Ameixa",
+        "caloria": 46.0,
+        "proteina": 0.7,
+        "lipidio": 0.28,
+        "carboidrato": 11.42,
+        "grupo": "Frutas"
+    },
+    {
+        "code": 6807001,
+        "nome": "Murici",
+        "caloria": 66.0,
+        "proteina": 0.9,
+        "lipidio": 1.3,
+        "carboidrato": 14.4,
+        "grupo": "Frutas"
+    },
+    {
+        "code": 6804901,
+        "nome": "Jabuticaba",
+        "caloria": 73.0,
+        "proteina": 0.66,
+        "lipidio": 0.5,
+        "carboidrato": 18.4,
+        "grupo": "Frutas"
+    },
+    {
+        "code": 6803912,
+        "nome": "Uva passa",
+        "caloria": 299.0,
+        "proteina": 3.07,
+        "lipidio": 0.46,
+        "carboidrato": 79.18,
+        "grupo": "Frutas"
+    },
+    {
+        "code": 6904204,
+        "nome": "Leite geleificado",
+        "caloria": 131.15,
+        "proteina": 5.58,
+        "lipidio": 5.07,
+        "carboidrato": 15.44,
+        "grupo": "Açúcares"
+    },
+    {
+        "code": 6900302,
+        "nome": "Demerara",
+        "caloria": 387.0,
+        "proteina": 4.33,
+        "lipidio": 5.07,
+        "carboidrato": 99.98,
+        "grupo": "Açúcares"
+    },
+    {
+        "code": 6913001,
+        "nome": "Cocada diet",
+        "caloria": 404.8,
+        "proteina": 1.01,
+        "lipidio": 12.46,
+        "carboidrato": 75.65,
+        "grupo": "Açúcares"
+    },
+    {
+        "code": 6900822,
+        "nome": "Toddynho",
+        "caloria": 83.32,
+        "proteina": 3.18,
+        "lipidio": 3.4,
+        "carboidrato": 10.38,
+        "grupo": "Açúcares"
+    },
+    {
+        "code": 6913101,
+        "nome": "Doce de amendoim diet",
+        "caloria": 599.0,
+        "proteina": 28.03,
+        "lipidio": 52.5,
+        "carboidrato": 15.26,
+        "grupo": "Açúcares"
+    },
+    {
+        "code": 7004701,
+        "nome": "Massa de tomate",
+        "caloria": 38.0,
+        "proteina": 1.65,
+        "lipidio": 0.21,
+        "carboidrato": 8.98,
+        "grupo": "Sais e condimentos"
+    },
+    {
+        "code": 7002601,
+        "nome": "Coentro",
+        "caloria": 279.0,
+        "proteina": 21.93,
+        "lipidio": 4.78,
+        "carboidrato": 52.1,
+        "grupo": "Sais e condimentos"
+    },
+    {
+        "code": 7007701,
+        "nome": "Caldo de peixe",
+        "caloria": 16.0,
+        "proteina": 2.0,
+        "lipidio": 0.6,
+        "carboidrato": 0.4,
+        "grupo": "Sais e condimentos"
+    },
+    {
+        "code": 7004802,
+        "nome": "Ketchup",
+        "caloria": 97.0,
+        "proteina": 1.74,
+        "lipidio": 0.31,
+        "carboidrato": 25.15,
+        "grupo": "Sais e condimentos"
+    },
+    {
+        "code": 7004301,
+        "nome": "Maionese (molho)",
+        "caloria": 261.05,
+        "proteina": 0.47,
+        "lipidio": 23.33,
+        "carboidrato": 13.38,
+        "grupo": "Sais e condimentos"
+    },
+    {
+        "code": 7101706,
+        "nome": "Fil� de segunda",
+        "caloria": 242.0,
+        "proteina": 24.22,
+        "lipidio": 15.42,
+        "carboidrato": 3.76,
+        "grupo": "Carnes"
+    },
+    {
+        "code": 7100304,
+        "nome": "Picanha",
+        "caloria": 204.0,
+        "proteina": 30.67,
+        "lipidio": 9.0,
+        "carboidrato": 3.76,
+        "grupo": "Carnes"
+    },
+    {
+        "code": 7105405,
+        "nome": "Carne de caprino",
+        "caloria": 143.0,
+        "proteina": 27.1,
+        "lipidio": 3.03,
+        "carboidrato": 3.76,
+        "grupo": "Carnes"
+    },
+    {
+        "code": 7102401,
+        "nome": "Tripa bovina",
+        "caloria": 94.0,
+        "proteina": 11.71,
+        "lipidio": 4.05,
+        "carboidrato": 1.99,
+        "grupo": "Carnes"
+    },
+    {
+        "code": 7105602,
+        "nome": "Carne de ovelha",
+        "caloria": 204.0,
+        "proteina": 28.35,
+        "lipidio": 9.17,
+        "carboidrato": 3.76,
+        "grupo": "Carnes"
+    },
+    {
+        "code": 7703902,
+        "nome": "Pasta de peixe em conserva",
+        "caloria": 198.0,
+        "proteina": 29.13,
+        "lipidio": 8.21,
+        "carboidrato": 5.13,
+        "grupo": "Pescados e frutos do mar"
+    },
+    {
+        "code": 7265101,
+        "nome": "Lula",
+        "caloria": 143.84,
+        "proteina": 18.32,
+        "lipidio": 4.19,
+        "carboidrato": 6.92,
+        "grupo": "Pescados e frutos do mar"
+    },
+    {
+        "code": 7701406,
+        "nome": "Yakissoba",
+        "caloria": 527.0,
+        "proteina": 8.38,
+        "lipidio": 30.76,
+        "carboidrato": 57.54,
+        "grupo": "Pescados e frutos do mar"
+    },
+    {
+        "code": 7702602,
+        "nome": "Alm�ndega",
+        "caloria": 214.85,
+        "proteina": 20.64,
+        "lipidio": 9.2,
+        "carboidrato": 11.0,
+        "grupo": "Pescados e frutos do mar"
+    },
+    {
+        "code": 7700201,
+        "nome": "Ervilha em conserva",
+        "caloria": 69.0,
+        "proteina": 4.42,
+        "lipidio": 0.35,
+        "carboidrato": 12.58,
+        "grupo": "Pescados e frutos do mar"
+    },
+    {
+        "code": 7800304,
+        "nome": "Carne de galinha",
+        "caloria": 239.0,
+        "proteina": 27.3,
+        "lipidio": 13.6,
+        "carboidrato": 1.12,
+        "grupo": "Aves e ovos"
+    },
+    {
+        "code": 7800103,
+        "nome": "Frango inteiro",
+        "caloria": 239.0,
+        "proteina": 27.3,
+        "lipidio": 13.6,
+        "carboidrato": 1.12,
+        "grupo": "Aves e ovos"
+    },
+    {
+        "code": 7802101,
+        "nome": "Asa de peru",
+        "caloria": 229.0,
+        "proteina": 27.38,
+        "lipidio": 12.43,
+        "carboidrato": 1.12,
+        "grupo": "Aves e ovos"
+    },
+    {
+        "code": 7805501,
+        "nome": "Frango inteiro orgânico",
+        "caloria": 239.0,
+        "proteina": 27.3,
+        "lipidio": 13.6,
+        "carboidrato": 1.12,
+        "grupo": "Aves e ovos"
+    },
+    {
+        "code": 7801301,
+        "nome": "F�gado de galinha ou frango",
+        "caloria": 167.0,
+        "proteina": 24.46,
+        "lipidio": 6.51,
+        "carboidrato": 0.87,
+        "grupo": "Aves e ovos"
+    },
+    {
+        "code": 7904801,
+        "nome": "Iogurte de qualquer sabor orgânico",
+        "caloria": 98.69,
+        "proteina": 3.46,
+        "lipidio": 3.47,
+        "carboidrato": 14.62,
+        "grupo": "Laticínios"
+    },
+    {
+        "code": 7901501,
+        "nome": "Manteiga com ou sem sal",
+        "caloria": 717.0,
+        "proteina": 0.85,
+        "lipidio": 81.11,
+        "carboidrato": 0.06,
+        "grupo": "Laticínios"
+    },
+    {
+        "code": 7907001,
+        "nome": "Leite em p� com sabor",
+        "caloria": 405.0,
+        "proteina": 3.3,
+        "lipidio": 3.1,
+        "carboidrato": 90.9,
+        "grupo": "Laticínios"
+    },
+    {
+        "code": 7906303,
+        "nome": "Queijo ralado light",
+        "caloria": 265.0,
+        "proteina": 20.0,
+        "lipidio": 20.0,
+        "carboidrato": 1.37,
+        "grupo": "Laticínios"
+    },
+    {
+        "code": 7906601,
+        "nome": "Queijo não especificado light",
+        "caloria": 90.0,
+        "proteina": 13.74,
+        "lipidio": 1.93,
+        "carboidrato": 3.63,
+        "grupo": "Laticínios"
+    },
+    {
+        "code": 8002703,
+        "nome": "Bolo de macaxeira",
+        "caloria": 324.0,
+        "proteina": 4.4,
+        "lipidio": 12.7,
+        "carboidrato": 47.9,
+        "grupo": "Panificados"
+    },
+    {
+        "code": 8004601,
+        "nome": "Bolo de trigo",
+        "caloria": 286.6,
+        "proteina": 6.91,
+        "lipidio": 4.24,
+        "carboidrato": 55.27,
+        "grupo": "Panificados"
+    },
+    {
+        "code": 8010601,
+        "nome": "Bolo de banana",
+        "caloria": 300.05,
+        "proteina": 3.93,
+        "lipidio": 9.07,
+        "carboidrato": 52.14,
+        "grupo": "Panificados"
+    },
+    {
+        "code": 8002212,
+        "nome": "Biscoito de polvilho",
+        "caloria": 436.72,
+        "proteina": 4.46,
+        "lipidio": 29.08,
+        "carboidrato": 38.37,
+        "grupo": "Panificados"
+    },
+    {
+        "code": 8000105,
+        "nome": "Pão de sal",
+        "caloria": 300.0,
+        "proteina": 8.0,
+        "lipidio": 3.1,
+        "carboidrato": 58.6,
+        "grupo": "Panificados"
+    },
+    {
+        "code": 8104601,
+        "nome": "Carne salgada não especificada",
+        "caloria": 313.0,
+        "proteina": 26.9,
+        "lipidio": 21.9,
+        "carboidrato": 2.4,
+        "grupo": "Carnes industrializadas"
+    },
+    {
+        "code": 8102701,
+        "nome": "Salame",
+        "caloria": 336.0,
+        "proteina": 21.85,
+        "lipidio": 25.9,
+        "carboidrato": 2.4,
+        "grupo": "Carnes industrializadas"
+    },
+    {
+        "code": 8102402,
+        "nome": "Morcela",
+        "caloria": 379.0,
+        "proteina": 14.6,
+        "lipidio": 34.5,
+        "carboidrato": 1.29,
+        "grupo": "Carnes industrializadas"
+    },
+    {
+        "code": 8101101,
+        "nome": "Hambúrguer de frango",
+        "caloria": 206.14,
+        "proteina": 16.19,
+        "lipidio": 9.71,
+        "carboidrato": 12.64,
+        "grupo": "Carnes industrializadas"
+    },
+    {
+        "code": 8104001,
+        "nome": "Pat� (f�gado, calabresa, frango, presunto, etc.)",
+        "caloria": 326.0,
+        "proteina": 14.1,
+        "lipidio": 28.5,
+        "carboidrato": 2.2,
+        "grupo": "Carnes industrializadas"
+    },
+    {
+        "code": 8202001,
+        "nome": "Caldo de cana",
+        "caloria": 73.58,
+        "proteina": 0.25,
+        "lipidio": 0.05,
+        "carboidrato": 19.97,
+        "grupo": "Bebidas"
+    },
+    {
+        "code": 8207402,
+        "nome": "Guaraná diet",
+        "caloria": 36.87,
+        "proteina": 0.25,
+        "lipidio": 0.02,
+        "carboidrato": 9.53,
+        "grupo": "Bebidas"
+    },
+    {
+        "code": 8206301,
+        "nome": "Chá",
+        "caloria": 1.0,
+        "proteina": 0.25,
+        "lipidio": 0.02,
+        "carboidrato": 0.3,
+        "grupo": "Bebidas"
+    },
+    {
+        "code": 8204503,
+        "nome": "Chocomilk",
+        "caloria": 83.32,
+        "proteina": 3.18,
+        "lipidio": 3.4,
+        "carboidrato": 10.38,
+        "grupo": "Bebidas"
+    },
+    {
+        "code": 8213004,
+        "nome": "Chimarrão orgânico",
+        "caloria": 2.8,
+        "proteina": 0.25,
+        "lipidio": 0.02,
+        "carboidrato": 2.31,
+        "grupo": "Bebidas"
+    },
+    {
+        "code": 8403201,
+        "nome": "Óleo não especificado",
+        "caloria": 879.73,
+        "proteina": 10.65,
+        "lipidio": 99.52,
+        "carboidrato": 0.0,
+        "grupo": "Óleos e gorduras"
+    },
+    {
+        "code": 8403501,
+        "nome": "Óleo de dendê",
+        "caloria": 857.84,
+        "proteina": 10.65,
+        "lipidio": 99.52,
+        "carboidrato": 0.0,
+        "grupo": "Óleos e gorduras"
+    },
+    {
+        "code": 8403001,
+        "nome": "Banha bovina",
+        "caloria": 680.0,
+        "proteina": 10.65,
+        "lipidio": 70.33,
+        "carboidrato": 0.0,
+        "grupo": "Óleos e gorduras"
+    },
+    {
+        "code": 8400101,
+        "nome": "Azeite de oliva",
+        "caloria": 887.81,
+        "proteina": 10.65,
+        "lipidio": 100.43,
+        "carboidrato": 0.0,
+        "grupo": "Óleos e gorduras"
+    },
+    {
+        "code": 8401801,
+        "nome": "Banha suína",
+        "caloria": 902.0,
+        "proteina": 10.65,
+        "lipidio": 100.0,
+        "carboidrato": 0.0,
+        "grupo": "Óleos e gorduras"
+    },
+    {
+        "code": 8500232,
+        "nome": "Bolinho de bacalhau",
+        "caloria": 214.01,
+        "proteina": 16.7,
+        "lipidio": 12.75,
+        "carboidrato": 7.69,
+        "grupo": "Miscelâneas"
+    },
+    {
+        "code": 8508003,
+        "nome": "Pizza pronta light",
+        "caloria": 255.57,
+        "proteina": 14.6,
+        "lipidio": 8.45,
+        "carboidrato": 29.82,
+        "grupo": "Miscelâneas"
+    },
+    {
+        "code": 8500303,
+        "nome": "Hambúrguer (Sanduíche)",
+        "caloria": 267.16,
+        "proteina": 13.08,
+        "lipidio": 9.22,
+        "carboidrato": 32.36,
+        "grupo": "Miscelâneas"
+    },
+    {
+        "code": 8507601,
+        "nome": "Chocolate",
+        "caloria": 535.0,
+        "proteina": 7.65,
+        "lipidio": 29.66,
+        "carboidrato": 59.4,
+        "grupo": "Miscelâneas"
+    },
+    {
+        "code": 8507301,
+        "nome": "Caldo verde",
+        "caloria": 94.92,
+        "proteina": 3.53,
+        "lipidio": 2.9,
+        "carboidrato": 14.19,
+        "grupo": "Miscelâneas"
+    }
+]

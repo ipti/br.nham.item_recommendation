@@ -1,0 +1,43 @@
+{
+    "escola paulistinha": {
+        "group_reference": "massa",
+        "items": {
+            "Item 35": {
+                "item_reference": {
+                    "grupo": "massa",
+                    "nome": "Item 35",
+                    "code": 35
+                },
+                "recommendations": [
+                    {
+                        "item_name": [
+                            "Item 15",
+                            15
+                        ],
+                        "score": 0.0,
+                        "normalized_score": 0.0,
+                        "traffic_light_color": "Vermelho"
+                    }
+                ]
+            },
+            "Item 15": {
+                "item_reference": {
+                    "grupo": "massa",
+                    "nome": "Item 15",
+                    "code": 15
+                },
+                "recommendations": [
+                    {
+                        "item_name": [
+                            "Item 35",
+                            35
+                        ],
+                        "score": 0.0,
+                        "normalized_score": 0.0,
+                        "traffic_light_color": "Vermelho"
+                    }
+                ]
+            }
+        }
+    }
+}

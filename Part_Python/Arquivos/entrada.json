@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Item 1",
+        "grupo": "arroz",
+        "code": 1
+    },
+    {
+        "nome": "Item 35",
+        "grupo": "massa",
+        "code": 35
+    },
+    {
+        "nome": "Item 15",
+        "grupo": "massa",
+        "code": 15
+    }
+]
